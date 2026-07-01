@@ -1,31 +1,31 @@
 # Bill Zi
 
-Builder of compilers, LLM systems, distributed labs, embedded prototypes, and from-scratch engineering projects.
+主要做编译器、LLM 系统、分布式实验平台、嵌入式原型，以及各种从零实现的工程项目。
 
-Homepage: [billzi2016.github.io](https://billzi2016.github.io/)  
-Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAAAJ&hl=en-US)
+个人主页：[billzi2016.github.io](https://billzi2016.github.io/)  
+Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAAAJ&hl=en-US)
 
-## Featured Projects
+## 重点项目
 
 - [LLM-Benchmark-Studio](https://github.com/billzi2016/LLM-Benchmark-Studio)  
-  Local-first LLM evaluation platform with Django, Vue, PostgreSQL, RabbitMQ, Celery, SSE, and multi-provider model execution.
+  本地优先的 LLM 评测平台，使用 Django、Vue、PostgreSQL、RabbitMQ、Celery 和 SSE 组织完整评测流程。
 
 - [Build-DeepSeek-Step-by-Step](https://github.com/billzi2016/Build-DeepSeek-Step-by-Step)  
-  Notebook-first deep dive into modern LLM architecture, covering tokenization, attention, GQA, MLA, MoE, training, and alignment.
+  从 tokenizer、attention、GQA、MLA、MoE 一路讲到训练与对齐的现代 LLM 拆解项目。
 
 - [Visual-Basic-Core-Compiler](https://github.com/billzi2016/Visual-Basic-Core-Compiler)  
-  A Visual Basic core compiler in Python, from tokens and AST to semantic analysis, IR, portable C, and runnable executables.
+  用 Python 实现的 Visual Basic 核心编译器，打通词法、语法、语义、IR、Portable C 和可执行产物。
 
 - [Apple-Silicon-LLM-Engine-from-Scratch](https://github.com/billzi2016/Apple-Silicon-LLM-Engine-from-Scratch)  
-  GPT-2 inference engine rebuilt across NumPy, PyTorch MPS, and C++/Metal stages for Apple Silicon.
+  面向 Apple Silicon 的 GPT-2 推理引擎，从 NumPy 版一路做到 PyTorch MPS 和 C++/Metal。
 
 - [distributed-paxos-raft-lab](https://github.com/billzi2016/distributed-paxos-raft-lab)  
-  Distributed consensus lab with FastAPI node simulation, Vue dashboards, Docker orchestration, and cluster control workflows.
+  Paxos / Raft 分布式共识实验平台，包含 FastAPI 节点模拟、Vue 控制面板和 Docker 集群编排。
 
 - [GPU-Test-and-Polite-Scheduler](https://github.com/billzi2016/GPU-Test-and-Polite-Scheduler)  
-  Practical shared-GPU toolkit for environment checks, stress tests, communication diagnostics, and tmux-based polite scheduling.
+  面向共享 GPU 服务器的实用工具，覆盖验卡、压测、多卡通信测试和礼貌型后台调度。
 
-## Systems, Compilers, and Runtime
+## 系统、编译器与运行时
 
 - [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler)
 - [Self-Hosting-C-Core-Compiler](https://github.com/billzi2016/Self-Hosting-C-Core-Compiler)
@@ -38,7 +38,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [Smart-Huffman-Archiver](https://github.com/billzi2016/Smart-Huffman-Archiver)
 - [SQLite-Chaos-Tester](https://github.com/billzi2016/SQLite-Chaos-Tester)
 
-## LLM, Agents, and Evaluation
+## LLM、Agent 与评测系统
 
 - [Industrial-Query-Agent](https://github.com/billzi2016/Industrial-Query-Agent)
 - [Build-MCP-Step-by-Step](https://github.com/billzi2016/Build-MCP-Step-by-Step)
@@ -52,7 +52,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [Custom-Style-AI-Chat](https://github.com/billzi2016/Custom-Style-AI-Chat)
 - [LLM-Gap-Tracker](https://github.com/billzi2016/LLM-Gap-Tracker)
 
-## Research, Data, and Domain Systems
+## 研究、数据与领域项目
 
 - [ai-agentic-arxiv-observer](https://github.com/billzi2016/ai-agentic-arxiv-observer)
 - [Daily-Paper-Reading](https://github.com/billzi2016/Daily-Paper-Reading)
@@ -65,7 +65,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [Alphafold-V1-Reproduction](https://github.com/billzi2016/Alphafold-V1-Reproduction)
 - [ViT-H](https://github.com/billzi2016/ViT-H)
 
-## Infra, Observability, and Tooling
+## 基础设施、观测与工程工具
 
 - [NodeExporter-Prometheus-Grafana](https://github.com/billzi2016/NodeExporter-Prometheus-Grafana)
 - [Apple-Silicon-Profiler](https://github.com/billzi2016/Apple-Silicon-Profiler)
@@ -76,7 +76,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [system-design-interview](https://github.com/billzi2016/system-design-interview)
 - [codex-config](https://github.com/billzi2016/codex-config)
 
-## Embedded, Hardware, and Edge
+## 嵌入式、硬件与边缘系统
 
 - [ATmega2560-Graphical-RPN-Scientific-Calculator](https://github.com/billzi2016/ATmega2560-Graphical-RPN-Scientific-Calculator)
 - [ATMega328p-RPN-Scientific-Calculator](https://github.com/billzi2016/ATMega328p-RPN-Scientific-Calculator)
@@ -89,7 +89,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [MCU-Design-and-Prototypes-Sandbox](https://github.com/billzi2016/MCU-Design-and-Prototypes-Sandbox)
 - [RS485-Modbus-Concrete-Sensor-Monitor](https://github.com/billzi2016/RS485-Modbus-Concrete-Sensor-Monitor)
 
-## Algorithms, Search, and Game AI
+## 算法、搜索与博弈 AI
 
 - [gomoku-terminator](https://github.com/billzi2016/gomoku-terminator)
 - [RL-MCTS-gomoku-zero-11x11](https://github.com/billzi2016/RL-MCTS-gomoku-zero-11x11)
@@ -102,7 +102,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [inverted-pendulum-rl-lab](https://github.com/billzi2016/inverted-pendulum-rl-lab)
 - [Metropolitan-Routing-Algorithm](https://github.com/billzi2016/Metropolitan-Routing-Algorithm)
 
-## Practice and Study Repositories
+## 练习与学习型仓库
 
 - [whitebox-ml-dl-algo](https://github.com/billzi2016/whitebox-ml-dl-algo)
 - [advanced-search-data-structures](https://github.com/billzi2016/advanced-search-data-structures)
@@ -113,7 +113,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [leetcode-terminator](https://github.com/billzi2016/leetcode-terminator)
 - [Study](https://github.com/billzi2016/Study)
 
-## More
+## 其他项目
 
 - [billzi2016.github.io](https://github.com/billzi2016/billzi2016.github.io)
 - [vlm-hybrid-gallery](https://github.com/billzi2016/vlm-hybrid-gallery)
@@ -126,8 +126,8 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [Four-Color-Theorem](https://github.com/billzi2016/Four-Color-Theorem)
 - [DTMF-Encod-Decode](https://github.com/billzi2016/DTMF-Encod-Decode)
 
-## Scholar
+## 学术主页
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=4z9m238AAAAJ&hl=en-US)
+[Google Scholar 主页](https://scholar.google.com/citations?user=4z9m238AAAAJ&hl=en-US)
 
 ![Google Scholar profile snapshot](images/Snipaste_2026-07-01_01-29-41.png)
