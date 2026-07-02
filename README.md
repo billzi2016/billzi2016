@@ -134,19 +134,19 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 
 ## Recent GitHub Pages Maintenance
 
-Recently, I have been aggressively rebuilding and polishing my GitHub Pages presence, using Codex / Claude Code within a human-in-the-loop workflow to turn older repositories into more formal, better-documented, and more navigable project sites. Over the past month, this maintenance cycle has consumed 18,935,155,313 tokens, gone through 61,090 conversation turns, and produced 3,429,823 lines of code.
+Recently, I have been refactoring and polishing my GitHub Pages presence, using Codex / Claude Code within a human-in-the-loop workflow to turn older repositories into more formal, better-documented, and more navigable project sites. The screenshots below summarize the past month's usage and maintenance activity.
 
 The work is not about blindly generating pages. It follows a spec-first and review-driven process, with TDD, SDD, and CI/CD practices used to improve readability, cross-platform support, maintainability, long-term maintenance efficiency, security, and stability across legacy repositories. AI assistance greatly accelerates the overall pace of restructuring and cleanup, and when dealing with large, interdependent documentation sets, it has a natural advantage in structural organization, terminology alignment, and cross-document revision, which helps reduce the risk of updating one section while leaving related documentation behind. At the same time, project decisions, acceptance, consolidation, and final editorial control remain human-in-the-loop.
 
 The screenshots collected here capture the past month's usage and showcase the public-facing documentation sites, repository presentation, and project entry points, so that readers can understand a project's structure, status, and intended usage before running anything locally. The current cleanup direction is gradually converging into three documentation styles: MkDocs-based documentation sites, Sphinx-based documentation sites, and fully custom static sites built directly with HTML, CSS, and JavaScript.
 
-Token consumption across models: 18,935,155,313
+Cross-model token consumption
 ![Codex usage dashboard showing 18,935,155,313 tokens consumed across models](images/Snipaste_2026-07-02_18-00-23.png)
 
-Conversation turns by model: 61,090
+Conversation turns by model
 ![Codex usage dashboard showing 61,090 conversation turns by model](images/Snipaste_2026-07-02_18-01-39.png)
 
-Lines of code generated over time: 3,429,823
+Lines of code generated
 ![Codex usage dashboard showing 3,429,823 lines of code generated over time](images/Snipaste_2026-07-02_18-02-39.png)
 
 MkDocs documentation site and repository README / documentation system: python-git-reproduction
