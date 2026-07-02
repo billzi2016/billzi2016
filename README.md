@@ -131,3 +131,48 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 [Google Scholar Profile](https://scholar.google.com/citations?user=4z9m238AAAAJ&hl=en-US)
 
 ![Google Scholar profile snapshot](images/Snipaste_2026-07-01_01-29-41.png)
+
+## Recent GitHub Pages Maintenance
+
+Recently, I have been aggressively rebuilding and polishing my GitHub Pages presence, using Codex / Claude Code within a human-in-the-loop workflow to turn older repositories into more formal, better-documented, and more navigable project sites. Over the past month, this maintenance cycle has consumed 18,935,155,313 tokens, gone through 61,090 conversation turns, and produced 3,429,823 lines of code.
+
+The work is not about blindly generating pages. It follows a spec-first and review-driven process, with TDD, SDD, and CI/CD practices used to improve readability, cross-platform support, maintainability, long-term maintenance efficiency, security, and stability across legacy repositories. AI assistance greatly accelerates the overall pace of restructuring and cleanup, and when dealing with large, interdependent documentation sets, it has a natural advantage in structural organization, terminology alignment, and cross-document revision, which helps reduce the risk of updating one section while leaving related documentation behind. At the same time, project decisions, acceptance, consolidation, and final editorial control remain human-in-the-loop.
+
+The screenshots collected here capture the past month's usage and showcase the public-facing documentation sites, repository presentation, and project entry points, so that readers can understand a project's structure, status, and intended usage before running anything locally. The current cleanup direction is gradually converging into three documentation styles: MkDocs-based documentation sites, Sphinx-based documentation sites, and fully custom static sites built directly with HTML, CSS, and JavaScript.
+
+Token consumption across models: 18,935,155,313
+![Codex usage dashboard showing 18,935,155,313 tokens consumed across models](images/Snipaste_2026-07-02_18-00-23.png)
+
+Conversation turns by model: 61,090
+![Codex usage dashboard showing 61,090 conversation turns by model](images/Snipaste_2026-07-02_18-01-39.png)
+
+Lines of code generated over time: 3,429,823
+![Codex usage dashboard showing 3,429,823 lines of code generated over time](images/Snipaste_2026-07-02_18-02-39.png)
+
+MkDocs documentation site and repository README / documentation system: python-git-reproduction
+
+- Site: [https://billzi2016.github.io/python-git-reproduction/](https://billzi2016.github.io/python-git-reproduction/)
+- Repository: [https://github.com/billzi2016/python-git-reproduction](https://github.com/billzi2016/python-git-reproduction)
+
+![MkDocs documentation site for python-git-reproduction](images/mkdocs.png)
+![Repository README and documentation system for python-git-reproduction](images/git.png)
+
+Sphinx documentation site: DeepChrInteract-v2
+
+- Site: [https://billzi2016.github.io/DeepChrInteract-v2/](https://billzi2016.github.io/DeepChrInteract-v2/)
+- Repository: [https://github.com/billzi2016/DeepChrInteract-v2](https://github.com/billzi2016/DeepChrInteract-v2)
+
+![Sphinx documentation site for DeepChrInteract-v2](images/sphinx.png)
+
+Static HTML/CSS/JS site: billzi2016.github.io
+
+- Site: [https://billzi2016.github.io/](https://billzi2016.github.io/)
+- Repository: [https://github.com/billzi2016/billzi2016.github.io](https://github.com/billzi2016/billzi2016.github.io)
+
+![Static personal site billzi2016.github.io](images/html.png)
+
+Curated project README example: Awesome Flow Matching
+
+- Repository: [https://github.com/billzi2016/awesome-flow-matching](https://github.com/billzi2016/awesome-flow-matching)
+
+![Curated project README example from Awesome Flow Matching](images/awesome.png)

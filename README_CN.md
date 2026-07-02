@@ -131,3 +131,48 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 [Google Scholar 主页](https://scholar.google.com/citations?user=4z9m238AAAAJ&hl=en-US)
 
 ![Google Scholar profile snapshot](images/Snipaste_2026-07-01_01-29-41.png)
+
+## 最近的 GitHub Pages 维护
+
+最近我一直在高强度重建和打磨自己的 GitHub Pages，并在 human-in-the-loop 的工作流中重度使用 Codex / Claude Code，把不少老仓库逐步整理成更正规、更完整、更易读、也更容易导航的项目站点。过去一个月里，这一轮维护累计消耗了 18,935,155,313 个 token，进行了 61,090 轮对话，并产出了 3,429,823 行代码。
+
+这项工作并不是为了盲目生成页面，而是按照 spec-first、review-driven 的方式推进，并持续引入 TDD、SDD 和 CI/CD 等工程实践，去提升这些历史项目的可读性、多平台支持能力、可维护性、后续维护效率、安全性和稳定性。AI 辅助极大提升了整体整理和重构速度，而在面对数量众多、相互关联的文档时，AI 也天然更擅长做结构梳理、术语统一和跨文档联动修订，从而减少“这一处改了、另一处没跟上”的问题。与此同时，项目取舍、内容验收、结构收敛以及最终编辑控制始终保持 human-in-the-loop，以对 AI 幻觉形成严格抑制，避免未经验证的信息进入最终内容。
+
+这里汇总的截图记录了过去一个月的使用情况，也集中展示了面向外部的文档站、仓库呈现方式和项目入口，让读者即使不在本地运行项目，也能先理解项目的结构、状态和预期用途。当前这一轮整理，主要在往三种文档形态收敛：基于 MkDocs 的文档站、基于 Sphinx 的文档站，以及直接使用 HTML、CSS、JavaScript 构建的原生静态站。
+
+跨模型 token 消耗：18,935,155,313
+![Codex 使用面板：跨模型累计消耗 18,935,155,313 个 token](images/Snipaste_2026-07-02_18-00-23.png)
+
+按模型统计的对话轮次：61,090
+![Codex 使用面板：按模型统计累计 61,090 轮对话](images/Snipaste_2026-07-02_18-01-39.png)
+
+累计生成代码行数：3,429,823
+![Codex 使用面板：累计生成 3,429,823 行代码的时间分布](images/Snipaste_2026-07-02_18-02-39.png)
+
+MkDocs 文档站与仓库 README / 文档系统示例：python-git-reproduction
+
+- 页面链接：[https://billzi2016.github.io/python-git-reproduction/](https://billzi2016.github.io/python-git-reproduction/)
+- 仓库链接：[https://github.com/billzi2016/python-git-reproduction](https://github.com/billzi2016/python-git-reproduction)
+
+![MkDocs 文档站：python-git-reproduction](images/mkdocs.png)
+![仓库 README 与文档系统示例：python-git-reproduction](images/git.png)
+
+Sphinx 文档站：DeepChrInteract-v2
+
+- 页面链接：[https://billzi2016.github.io/DeepChrInteract-v2/](https://billzi2016.github.io/DeepChrInteract-v2/)
+- 仓库链接：[https://github.com/billzi2016/DeepChrInteract-v2](https://github.com/billzi2016/DeepChrInteract-v2)
+
+![Sphinx 文档站：DeepChrInteract-v2](images/sphinx.png)
+
+原生静态站：billzi2016.github.io
+
+- 页面链接：[https://billzi2016.github.io/](https://billzi2016.github.io/)
+- 仓库链接：[https://github.com/billzi2016/billzi2016.github.io](https://github.com/billzi2016/billzi2016.github.io)
+
+![原生静态站：billzi2016.github.io](images/html.png)
+
+整理型项目 README 示例：Awesome Flow Matching
+
+- 仓库链接：[https://github.com/billzi2016/awesome-flow-matching](https://github.com/billzi2016/awesome-flow-matching)
+
+![整理型项目 README 示例：Awesome Flow Matching](images/awesome.png)
