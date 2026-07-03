@@ -1,5 +1,8 @@
 # Bill Zi
 
+计算机科学博士，Purdue University / Indiana University  
+LLMs/MLLMs | NLP 与 CV | GenAI | 工业与医疗 AI | XAI 与鲁棒性 | 毫米波与嵌入式
+
 主要做编译器、LLM 系统、分布式实验平台、嵌入式原型，以及各种从零实现的工程项目。
 
 个人主页：[billzi2016.github.io](https://billzi2016.github.io/)  
@@ -27,9 +30,9 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 ## 系统、编译器与运行时
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler)
 - [Self-Hosting-C-Core-Compiler](https://github.com/billzi2016/Self-Hosting-C-Core-Compiler)
@@ -38,7 +41,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Autograd-Compiler-Engine](https://github.com/billzi2016/Autograd-Compiler-Engine)
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [Automatic-Differentiation-From-Scratch](https://github.com/billzi2016/Automatic-Differentiation-From-Scratch)
 - [bignum-from-scratch](https://github.com/billzi2016/bignum-from-scratch)
@@ -52,9 +55,9 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 ## LLM、Agent 与评测系统
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [Industrial-Query-Agent](https://github.com/billzi2016/Industrial-Query-Agent)
 - [Build-MCP-Step-by-Step](https://github.com/billzi2016/Build-MCP-Step-by-Step)
@@ -64,7 +67,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [ClinicaLLM-OmniBench](https://github.com/billzi2016/ClinicaLLM-OmniBench)
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [ClinicaLLM-OmniBench-EN](https://github.com/billzi2016/ClinicaLLM-OmniBench-EN)
 - [LLM-SFT-PEFT-Preference-RL-Quantization-Inference-Deployment](https://github.com/billzi2016/LLM-SFT-PEFT-Preference-RL-Quantization-Inference-Deployment)
@@ -78,9 +81,9 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 ## 研究、数据与领域项目
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [ai-agentic-arxiv-observer](https://github.com/billzi2016/ai-agentic-arxiv-observer)
 - [Daily-Paper-Reading](https://github.com/billzi2016/Daily-Paper-Reading)
@@ -89,7 +92,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Batch-MRI-Quality-Control](https://github.com/billzi2016/Batch-MRI-Quality-Control)
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [MRI_Deep_Learning_Projects](https://github.com/billzi2016/MRI_Deep_Learning_Projects)
 - [DeepChrInteract-v2](https://github.com/billzi2016/DeepChrInteract-v2)
@@ -103,9 +106,9 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 ## 基础设施、观测与工程工具
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [NodeExporter-Prometheus-Grafana](https://github.com/billzi2016/NodeExporter-Prometheus-Grafana)
 - [Apple-Silicon-Profiler](https://github.com/billzi2016/Apple-Silicon-Profiler)
@@ -113,7 +116,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [ESP8266-Codex-Usage-Monitor](https://github.com/billzi2016/ESP8266-Codex-Usage-Monitor)
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [ESP8266-Token-Counter](https://github.com/billzi2016/ESP8266-Token-Counter)
 - [ESP32-Prometheus-PC-Monitor](https://github.com/billzi2016/ESP32-Prometheus-PC-Monitor)
@@ -126,9 +129,9 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 ## 嵌入式、硬件与边缘系统
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [ATmega2560-Graphical-RPN-Scientific-Calculator](https://github.com/billzi2016/ATmega2560-Graphical-RPN-Scientific-Calculator)
 - [ATMega328p-RPN-Scientific-Calculator](https://github.com/billzi2016/ATMega328p-RPN-Scientific-Calculator)
@@ -137,7 +140,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [LCD12864-Dither-TV](https://github.com/billzi2016/LCD12864-Dither-TV)
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [Arduino-Wired-Telegraph](https://github.com/billzi2016/Arduino-Wired-Telegraph)
 - [ESP32-Weather-Box](https://github.com/billzi2016/ESP32-Weather-Box)
@@ -151,9 +154,9 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 ## 算法、搜索与博弈 AI
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [gomoku-terminator](https://github.com/billzi2016/gomoku-terminator)
 - [RL-MCTS-gomoku-zero-11x11](https://github.com/billzi2016/RL-MCTS-gomoku-zero-11x11)
@@ -162,7 +165,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [reversi-minimax-alphabeta](https://github.com/billzi2016/reversi-minimax-alphabeta)
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [2048-expectimax-bitboard](https://github.com/billzi2016/2048-expectimax-bitboard)
 - [python-tetris-ai](https://github.com/billzi2016/python-tetris-ai)
@@ -176,9 +179,9 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 ## 练习与学习型仓库
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [whitebox-ml-dl-algo](https://github.com/billzi2016/whitebox-ml-dl-algo)
 - [advanced-search-data-structures](https://github.com/billzi2016/advanced-search-data-structures)
@@ -186,7 +189,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Prime-Sieve-Algorithms](https://github.com/billzi2016/Prime-Sieve-Algorithms)
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [Heuristic-Algorithm](https://github.com/billzi2016/Heuristic-Algorithm)
 - [Daily-Leetcode](https://github.com/billzi2016/Daily-Leetcode)
@@ -199,9 +202,9 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 ## 其他项目
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [billzi2016.github.io](https://github.com/billzi2016/billzi2016.github.io)
 - [vlm-hybrid-gallery](https://github.com/billzi2016/vlm-hybrid-gallery)
@@ -210,7 +213,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [MIMO-FMCW-Radar-Simulator-Multiprocess](https://github.com/billzi2016/MIMO-FMCW-Radar-Simulator-Multiprocess)
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 - [mmwave-fmcw-cascade-mimo-sensing-platform](https://github.com/billzi2016/mmwave-fmcw-cascade-mimo-sensing-platform)
 - [mmlock-fmcw-radar-deep-security](https://github.com/billzi2016/mmlock-fmcw-radar-deep-security)
