@@ -38,17 +38,13 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Self-Hosting-C-Core-Compiler](https://github.com/billzi2016/Self-Hosting-C-Core-Compiler)
 - [Homemade-CPython](https://github.com/billzi2016/Homemade-CPython)
 - [Homemade-Tiny-OS](https://github.com/billzi2016/Homemade-Tiny-OS)
-
-</td>
-<td valign="top">
-
 - [Autograd-Compiler-Engine](https://github.com/billzi2016/Autograd-Compiler-Engine)
 - [Automatic-Differentiation-From-Scratch](https://github.com/billzi2016/Automatic-Differentiation-From-Scratch)
-- [bignum-from-scratch](https://github.com/billzi2016/bignum-from-scratch)
 
 </td>
 <td valign="top">
 
+- [bignum-from-scratch](https://github.com/billzi2016/bignum-from-scratch)
 - [http-server-from--scratch](https://github.com/billzi2016/http-server-from--scratch)
 - [Smart-Huffman-Archiver](https://github.com/billzi2016/Smart-Huffman-Archiver)
 - [SQLite-Chaos-Tester](https://github.com/billzi2016/SQLite-Chaos-Tester)
@@ -67,18 +63,14 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Build-MCP-Step-by-Step](https://github.com/billzi2016/Build-MCP-Step-by-Step)
 - [AI-Agent](https://github.com/billzi2016/AI-Agent)
 - [ReAct-AI-Agent](https://github.com/billzi2016/ReAct-AI-Agent)
-
-</td>
-<td valign="top">
-
 - [Pydantic-AI-Study](https://github.com/billzi2016/Pydantic-AI-Study)
 - [ClinicaLLM-OmniBench](https://github.com/billzi2016/ClinicaLLM-OmniBench)
-- [ClinicaLLM-OmniBench-EN](https://github.com/billzi2016/ClinicaLLM-OmniBench-EN)
-- [LLM-SFT-PEFT-Preference-RL-Quantization-Inference-Deployment](https://github.com/billzi2016/LLM-SFT-PEFT-Preference-RL-Quantization-Inference-Deployment)
 
 </td>
 <td valign="top">
 
+- [ClinicaLLM-OmniBench-EN](https://github.com/billzi2016/ClinicaLLM-OmniBench-EN)
+- [LLM-SFT-PEFT-Preference-RL-Quantization-Inference-Deployment](https://github.com/billzi2016/LLM-SFT-PEFT-Preference-RL-Quantization-Inference-Deployment)
 - [professional-agentic-learning](https://github.com/billzi2016/professional-agentic-learning)
 - [Custom-Style-AI-Chat](https://github.com/billzi2016/Custom-Style-AI-Chat)
 - [LLM-Gap-Tracker](https://github.com/billzi2016/LLM-Gap-Tracker)
@@ -96,17 +88,13 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [ai-agentic-arxiv-observer](https://github.com/billzi2016/ai-agentic-arxiv-observer)
 - [Daily-Paper-Reading](https://github.com/billzi2016/Daily-Paper-Reading)
 - [LLM-AI-Papers](https://github.com/billzi2016/LLM-AI-Papers)
-
-</td>
-<td valign="top">
-
 - [llm-auto-rag-survey](https://github.com/billzi2016/llm-auto-rag-survey)
 - [Batch-MRI-Quality-Control](https://github.com/billzi2016/Batch-MRI-Quality-Control)
-- [MRI_Deep_Learning_Projects](https://github.com/billzi2016/MRI_Deep_Learning_Projects)
 
 </td>
 <td valign="top">
 
+- [MRI_Deep_Learning_Projects](https://github.com/billzi2016/MRI_Deep_Learning_Projects)
 - [DeepChrInteract-v2](https://github.com/billzi2016/DeepChrInteract-v2)
 - [Alphafold-V2-Reproduction](https://github.com/billzi2016/Alphafold-V2-Reproduction)
 - [Alphafold-V1-Reproduction](https://github.com/billzi2016/Alphafold-V1-Reproduction)
