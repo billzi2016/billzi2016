@@ -30,78 +30,90 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 ## 系统、编译器与运行时
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/C-Core-Compiler">C-Core-Compiler</a></li>
-        <li><a href="https://github.com/billzi2016/Self-Hosting-C-Core-Compiler">Self-Hosting-C-Core-Compiler</a></li>
-        <li><a href="https://github.com/billzi2016/Homemade-CPython">Homemade-CPython</a></li>
-        <li><a href="https://github.com/billzi2016/Homemade-Tiny-OS">Homemade-Tiny-OS</a></li>
-        <li><a href="https://github.com/billzi2016/Autograd-Compiler-Engine">Autograd-Compiler-Engine</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/Automatic-Differentiation-From-Scratch">Automatic-Differentiation-From-Scratch</a></li>
-        <li><a href="https://github.com/billzi2016/bignum-from-scratch">bignum-from-scratch</a></li>
-        <li><a href="https://github.com/billzi2016/http-server-from--scratch">http-server-from--scratch</a></li>
-        <li><a href="https://github.com/billzi2016/Smart-Huffman-Archiver">Smart-Huffman-Archiver</a></li>
-        <li><a href="https://github.com/billzi2016/SQLite-Chaos-Tester">SQLite-Chaos-Tester</a></li>
-      </ul>
-    </td>
-  </tr>
+<table>
+<tr>
+<td valign="top">
+
+- [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler)
+- [Self-Hosting-C-Core-Compiler](https://github.com/billzi2016/Self-Hosting-C-Core-Compiler)
+- [Homemade-CPython](https://github.com/billzi2016/Homemade-CPython)
+- [Homemade-Tiny-OS](https://github.com/billzi2016/Homemade-Tiny-OS)
+
+</td>
+<td valign="top">
+
+- [Autograd-Compiler-Engine](https://github.com/billzi2016/Autograd-Compiler-Engine)
+- [Automatic-Differentiation-From-Scratch](https://github.com/billzi2016/Automatic-Differentiation-From-Scratch)
+- [bignum-from-scratch](https://github.com/billzi2016/bignum-from-scratch)
+
+</td>
+<td valign="top">
+
+- [http-server-from--scratch](https://github.com/billzi2016/http-server-from--scratch)
+- [Smart-Huffman-Archiver](https://github.com/billzi2016/Smart-Huffman-Archiver)
+- [SQLite-Chaos-Tester](https://github.com/billzi2016/SQLite-Chaos-Tester)
+
+</td>
+</tr>
 </table>
 
 ## LLM、Agent 与评测系统
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/Industrial-Query-Agent">Industrial-Query-Agent</a></li>
-        <li><a href="https://github.com/billzi2016/Build-MCP-Step-by-Step">Build-MCP-Step-by-Step</a></li>
-        <li><a href="https://github.com/billzi2016/AI-Agent">AI-Agent</a></li>
-        <li><a href="https://github.com/billzi2016/ReAct-AI-Agent">ReAct-AI-Agent</a></li>
-        <li><a href="https://github.com/billzi2016/Pydantic-AI-Study">Pydantic-AI-Study</a></li>
-        <li><a href="https://github.com/billzi2016/ClinicaLLM-OmniBench">ClinicaLLM-OmniBench</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/ClinicaLLM-OmniBench-EN">ClinicaLLM-OmniBench-EN</a></li>
-        <li><a href="https://github.com/billzi2016/LLM-SFT-PEFT-Preference-RL-Quantization-Inference-Deployment">LLM-SFT-PEFT-Preference-RL-Quantization-Inference-Deployment</a></li>
-        <li><a href="https://github.com/billzi2016/professional-agentic-learning">professional-agentic-learning</a></li>
-        <li><a href="https://github.com/billzi2016/Custom-Style-AI-Chat">Custom-Style-AI-Chat</a></li>
-        <li><a href="https://github.com/billzi2016/LLM-Gap-Tracker">LLM-Gap-Tracker</a></li>
-      </ul>
-    </td>
-  </tr>
+<table>
+<tr>
+<td valign="top">
+
+- [Industrial-Query-Agent](https://github.com/billzi2016/Industrial-Query-Agent)
+- [Build-MCP-Step-by-Step](https://github.com/billzi2016/Build-MCP-Step-by-Step)
+- [AI-Agent](https://github.com/billzi2016/AI-Agent)
+- [ReAct-AI-Agent](https://github.com/billzi2016/ReAct-AI-Agent)
+
+</td>
+<td valign="top">
+
+- [Pydantic-AI-Study](https://github.com/billzi2016/Pydantic-AI-Study)
+- [ClinicaLLM-OmniBench](https://github.com/billzi2016/ClinicaLLM-OmniBench)
+- [ClinicaLLM-OmniBench-EN](https://github.com/billzi2016/ClinicaLLM-OmniBench-EN)
+- [LLM-SFT-PEFT-Preference-RL-Quantization-Inference-Deployment](https://github.com/billzi2016/LLM-SFT-PEFT-Preference-RL-Quantization-Inference-Deployment)
+
+</td>
+<td valign="top">
+
+- [professional-agentic-learning](https://github.com/billzi2016/professional-agentic-learning)
+- [Custom-Style-AI-Chat](https://github.com/billzi2016/Custom-Style-AI-Chat)
+- [LLM-Gap-Tracker](https://github.com/billzi2016/LLM-Gap-Tracker)
+
+</td>
+</tr>
 </table>
 
 ## 研究、数据与领域项目
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/ai-agentic-arxiv-observer">ai-agentic-arxiv-observer</a></li>
-        <li><a href="https://github.com/billzi2016/Daily-Paper-Reading">Daily-Paper-Reading</a></li>
-        <li><a href="https://github.com/billzi2016/LLM-AI-Papers">LLM-AI-Papers</a></li>
-        <li><a href="https://github.com/billzi2016/llm-auto-rag-survey">llm-auto-rag-survey</a></li>
-        <li><a href="https://github.com/billzi2016/Batch-MRI-Quality-Control">Batch-MRI-Quality-Control</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/MRI_Deep_Learning_Projects">MRI_Deep_Learning_Projects</a></li>
-        <li><a href="https://github.com/billzi2016/DeepChrInteract-v2">DeepChrInteract-v2</a></li>
-        <li><a href="https://github.com/billzi2016/Alphafold-V2-Reproduction">Alphafold-V2-Reproduction</a></li>
-        <li><a href="https://github.com/billzi2016/Alphafold-V1-Reproduction">Alphafold-V1-Reproduction</a></li>
-        <li><a href="https://github.com/billzi2016/ViT-H">ViT-H</a></li>
-      </ul>
-    </td>
-  </tr>
+<table>
+<tr>
+<td valign="top">
+
+- [ai-agentic-arxiv-observer](https://github.com/billzi2016/ai-agentic-arxiv-observer)
+- [Daily-Paper-Reading](https://github.com/billzi2016/Daily-Paper-Reading)
+- [LLM-AI-Papers](https://github.com/billzi2016/LLM-AI-Papers)
+
+</td>
+<td valign="top">
+
+- [llm-auto-rag-survey](https://github.com/billzi2016/llm-auto-rag-survey)
+- [Batch-MRI-Quality-Control](https://github.com/billzi2016/Batch-MRI-Quality-Control)
+- [MRI_Deep_Learning_Projects](https://github.com/billzi2016/MRI_Deep_Learning_Projects)
+
+</td>
+<td valign="top">
+
+- [DeepChrInteract-v2](https://github.com/billzi2016/DeepChrInteract-v2)
+- [Alphafold-V2-Reproduction](https://github.com/billzi2016/Alphafold-V2-Reproduction)
+- [Alphafold-V1-Reproduction](https://github.com/billzi2016/Alphafold-V1-Reproduction)
+- [ViT-H](https://github.com/billzi2016/ViT-H)
+
+</td>
+</tr>
 </table>
 
 ## 基础设施、观测与工程工具
