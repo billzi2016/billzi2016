@@ -81,11 +81,11 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [python-git-reproduction](https://github.com/billzi2016/python-git-reproduction) · [文档](https://billzi2016.github.io/python-git-reproduction/)
 - [Self-Hosting-C-Core-Compiler](https://github.com/billzi2016/Self-Hosting-C-Core-Compiler)
 - [Homemade-CPython](https://github.com/billzi2016/Homemade-CPython)
-- [Homemade-Tiny-OS](https://github.com/billzi2016/Homemade-Tiny-OS)
 
 </td>
 <td valign="top">
 
+- [Homemade-Tiny-OS](https://github.com/billzi2016/Homemade-Tiny-OS)
 - [Autograd-Compiler-Engine](https://github.com/billzi2016/Autograd-Compiler-Engine)
 - [Automatic-Differentiation-From-Scratch](https://github.com/billzi2016/Automatic-Differentiation-From-Scratch)
 - [bignum-from-scratch](https://github.com/billzi2016/bignum-from-scratch)
@@ -110,7 +110,6 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Industrial-Query-Agent](https://github.com/billzi2016/Industrial-Query-Agent)
 - [Build-MCP-Step-by-Step](https://github.com/billzi2016/Build-MCP-Step-by-Step)
 - [AI-Agent](https://github.com/billzi2016/AI-Agent)
-- [ReAct-AI-Agent](https://github.com/billzi2016/ReAct-AI-Agent)
 
 </td>
 <td valign="top">
@@ -126,6 +125,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [professional-agentic-learning](https://github.com/billzi2016/professional-agentic-learning)
 - [Custom-Style-AI-Chat](https://github.com/billzi2016/Custom-Style-AI-Chat)
 - [LLM-Gap-Tracker](https://github.com/billzi2016/LLM-Gap-Tracker)
+- [ReAct-AI-Agent](https://github.com/billzi2016/ReAct-AI-Agent)
 
 </td>
 </tr>
