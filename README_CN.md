@@ -30,7 +30,10 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
   面向共享 GPU 服务器的实用工具，覆盖验卡、压测、多卡通信测试和礼貌型后台调度。
 
 - [Leetcode-All-Languages-Best-Solutions](https://github.com/billzi2016/Leetcode-All-Languages-Best-Solutions) · [文档](https://billzi2016.github.io/Leetcode-All-Languages-Best-Solutions/)  
-  多语言 LeetCode 最优解整理项目，按难度、题号区间和题目 slug 生成 Markdown，并配套 MkDocs 文档站。覆盖 C、C++、Java、Python、Python3、C#、JavaScript、TypeScript、PHP、Swift、Kotlin、Dart、Go、Ruby、Scala、Rust、Racket、Erlang 和 Elixir。
+  多语言 LeetCode 最优解整理项目，按难度、题号区间和题目 slug 生成 Markdown，并配套 MkDocs 文档站。  
+  覆盖语言：  
+  C、C++、Java、Python、Python3、C#、JavaScript、TypeScript、PHP  
+  Swift、Kotlin、Dart、Go、Ruby、Scala、Rust、Racket、Erlang、Elixir。
 
 - [Industrial-Query-Agent](https://github.com/billzi2016/Industrial-Query-Agent)  
   面向工业领域问答、检索式工作流和实用 Agent 系统设计的查询助手项目。

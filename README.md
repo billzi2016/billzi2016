@@ -30,7 +30,10 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
   Practical shared-GPU toolkit for environment checks, stress tests, communication diagnostics, and tmux-based polite scheduling.
 
 - [Leetcode-All-Languages-Best-Solutions](https://github.com/billzi2016/Leetcode-All-Languages-Best-Solutions) · [Docs](https://billzi2016.github.io/Leetcode-All-Languages-Best-Solutions/)  
-  Multi-language LeetCode solution workspace with generated Markdown outputs, difficulty/range organization, and a MkDocs documentation site. Covers C, C++, Java, Python, Python3, C#, JavaScript, TypeScript, PHP, Swift, Kotlin, Dart, Go, Ruby, Scala, Rust, Racket, Erlang, and Elixir.
+  Multi-language LeetCode solution workspace with generated Markdown outputs, difficulty/range organization, and a MkDocs documentation site.  
+  Languages:  
+  C, C++, Java, Python, Python3, C#, JavaScript, TypeScript, PHP  
+  Swift, Kotlin, Dart, Go, Ruby, Scala, Rust, Racket, Erlang, Elixir.
 
 - [Industrial-Query-Agent](https://github.com/billzi2016/Industrial-Query-Agent)  
   Industrial query agent project for structured domain question answering, retrieval-oriented workflows, and practical agentic system design.
