@@ -34,7 +34,8 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 <tr>
 <td valign="top">
 
-- [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler)
+- [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler) · [文档](https://billzi2016.github.io/C-Core-Compiler/)
+- [python-git-reproduction](https://github.com/billzi2016/python-git-reproduction) · [文档](https://billzi2016.github.io/python-git-reproduction/)
 - [Self-Hosting-C-Core-Compiler](https://github.com/billzi2016/Self-Hosting-C-Core-Compiler)
 - [Homemade-CPython](https://github.com/billzi2016/Homemade-CPython)
 - [Homemade-Tiny-OS](https://github.com/billzi2016/Homemade-Tiny-OS)
@@ -93,6 +94,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 <tr>
 <td valign="top">
 
+- [DeepChrInteract-v2](https://github.com/billzi2016/DeepChrInteract-v2) · [文档](https://billzi2016.github.io/DeepChrInteract-v2/)
 - [ai-agentic-arxiv-observer](https://github.com/billzi2016/ai-agentic-arxiv-observer)
 - [Daily-Paper-Reading](https://github.com/billzi2016/Daily-Paper-Reading)
 - [LLM-AI-Papers](https://github.com/billzi2016/LLM-AI-Papers)
@@ -107,7 +109,6 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 </td>
 <td valign="top">
 
-- [DeepChrInteract-v2](https://github.com/billzi2016/DeepChrInteract-v2)
 - [Alphafold-V2-Reproduction](https://github.com/billzi2016/Alphafold-V2-Reproduction)
 - [Alphafold-V1-Reproduction](https://github.com/billzi2016/Alphafold-V1-Reproduction)
 - [ViT-H](https://github.com/billzi2016/ViT-H)
@@ -118,123 +119,143 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 ## 基础设施、观测与工程工具
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/NodeExporter-Prometheus-Grafana">NodeExporter-Prometheus-Grafana</a></li>
-        <li><a href="https://github.com/billzi2016/Apple-Silicon-Profiler">Apple-Silicon-Profiler</a></li>
-        <li><a href="https://github.com/billzi2016/system-burner">system-burner</a></li>
-        <li><a href="https://github.com/billzi2016/ESP8266-Codex-Usage-Monitor">ESP8266-Codex-Usage-Monitor</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/ESP8266-Token-Counter">ESP8266-Token-Counter</a></li>
-        <li><a href="https://github.com/billzi2016/ESP32-Prometheus-PC-Monitor">ESP32-Prometheus-PC-Monitor</a></li>
-        <li><a href="https://github.com/billzi2016/system-design-interview">system-design-interview</a></li>
-        <li><a href="https://github.com/billzi2016/codex-config">codex-config</a></li>
-      </ul>
-    </td>
-  </tr>
+<table>
+<tr>
+<td valign="top">
+
+- [NodeExporter-Prometheus-Grafana](https://github.com/billzi2016/NodeExporter-Prometheus-Grafana)
+- [Apple-Silicon-Profiler](https://github.com/billzi2016/Apple-Silicon-Profiler)
+- [system-burner](https://github.com/billzi2016/system-burner)
+
+</td>
+<td valign="top">
+
+- [ESP8266-Codex-Usage-Monitor](https://github.com/billzi2016/ESP8266-Codex-Usage-Monitor)
+- [ESP8266-Token-Counter](https://github.com/billzi2016/ESP8266-Token-Counter)
+- [ESP32-Prometheus-PC-Monitor](https://github.com/billzi2016/ESP32-Prometheus-PC-Monitor)
+
+</td>
+<td valign="top">
+
+- [system-design-interview](https://github.com/billzi2016/system-design-interview)
+- [codex-config](https://github.com/billzi2016/codex-config)
+
+</td>
+</tr>
 </table>
 
 ## 嵌入式、硬件与边缘系统
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/ATmega2560-Graphical-RPN-Scientific-Calculator">ATmega2560-Graphical-RPN-Scientific-Calculator</a></li>
-        <li><a href="https://github.com/billzi2016/ATMega328p-RPN-Scientific-Calculator">ATMega328p-RPN-Scientific-Calculator</a></li>
-        <li><a href="https://github.com/billzi2016/ATmega2560-LCD12864-Game-Of-Life">ATmega2560-LCD12864-Game-Of-Life</a></li>
-        <li><a href="https://github.com/billzi2016/LCD12864-Bad-Apple">LCD12864-Bad-Apple</a></li>
-        <li><a href="https://github.com/billzi2016/LCD12864-Dither-TV">LCD12864-Dither-TV</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/Arduino-Wired-Telegraph">Arduino-Wired-Telegraph</a></li>
-        <li><a href="https://github.com/billzi2016/ESP32-Weather-Box">ESP32-Weather-Box</a></li>
-        <li><a href="https://github.com/billzi2016/intelligent-esp32-drone-racing-gate-system">intelligent-esp32-drone-racing-gate-system</a></li>
-        <li><a href="https://github.com/billzi2016/MCU-Design-and-Prototypes-Sandbox">MCU-Design-and-Prototypes-Sandbox</a></li>
-        <li><a href="https://github.com/billzi2016/RS485-Modbus-Concrete-Sensor-Monitor">RS485-Modbus-Concrete-Sensor-Monitor</a></li>
-      </ul>
-    </td>
-  </tr>
+<table>
+<tr>
+<td valign="top">
+
+- [ATmega2560-Graphical-RPN-Scientific-Calculator](https://github.com/billzi2016/ATmega2560-Graphical-RPN-Scientific-Calculator)
+- [ATMega328p-RPN-Scientific-Calculator](https://github.com/billzi2016/ATMega328p-RPN-Scientific-Calculator)
+- [ATmega2560-LCD12864-Game-Of-Life](https://github.com/billzi2016/ATmega2560-LCD12864-Game-Of-Life)
+- [LCD12864-Bad-Apple](https://github.com/billzi2016/LCD12864-Bad-Apple)
+
+</td>
+<td valign="top">
+
+- [LCD12864-Dither-TV](https://github.com/billzi2016/LCD12864-Dither-TV)
+- [Arduino-Wired-Telegraph](https://github.com/billzi2016/Arduino-Wired-Telegraph)
+- [ESP32-Weather-Box](https://github.com/billzi2016/ESP32-Weather-Box)
+
+</td>
+<td valign="top">
+
+- [intelligent-esp32-drone-racing-gate-system](https://github.com/billzi2016/intelligent-esp32-drone-racing-gate-system)
+- [MCU-Design-and-Prototypes-Sandbox](https://github.com/billzi2016/MCU-Design-and-Prototypes-Sandbox)
+- [RS485-Modbus-Concrete-Sensor-Monitor](https://github.com/billzi2016/RS485-Modbus-Concrete-Sensor-Monitor)
+
+</td>
+</tr>
 </table>
 
 ## 算法、搜索与博弈 AI
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/gomoku-terminator">gomoku-terminator</a></li>
-        <li><a href="https://github.com/billzi2016/RL-MCTS-gomoku-zero-11x11">RL-MCTS-gomoku-zero-11x11</a></li>
-        <li><a href="https://github.com/billzi2016/gomoku-minimax-engine">gomoku-minimax-engine</a></li>
-        <li><a href="https://github.com/billzi2016/reversi-mcts-rl-zero">reversi-mcts-rl-zero</a></li>
-        <li><a href="https://github.com/billzi2016/reversi-minimax-alphabeta">reversi-minimax-alphabeta</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/2048-expectimax-bitboard">2048-expectimax-bitboard</a></li>
-        <li><a href="https://github.com/billzi2016/python-tetris-ai">python-tetris-ai</a></li>
-        <li><a href="https://github.com/billzi2016/openai-gym-reinforcement-learning-lab">openai-gym-reinforcement-learning-lab</a></li>
-        <li><a href="https://github.com/billzi2016/inverted-pendulum-rl-lab">inverted-pendulum-rl-lab</a></li>
-        <li><a href="https://github.com/billzi2016/Metropolitan-Routing-Algorithm">Metropolitan-Routing-Algorithm</a></li>
-      </ul>
-    </td>
-  </tr>
+<table>
+<tr>
+<td valign="top">
+
+- [gomoku-terminator](https://github.com/billzi2016/gomoku-terminator)
+- [RL-MCTS-gomoku-zero-11x11](https://github.com/billzi2016/RL-MCTS-gomoku-zero-11x11)
+- [gomoku-minimax-engine](https://github.com/billzi2016/gomoku-minimax-engine)
+
+</td>
+<td valign="top">
+
+- [reversi-mcts-rl-zero](https://github.com/billzi2016/reversi-mcts-rl-zero)
+- [reversi-minimax-alphabeta](https://github.com/billzi2016/reversi-minimax-alphabeta)
+- [2048-expectimax-bitboard](https://github.com/billzi2016/2048-expectimax-bitboard)
+
+</td>
+<td valign="top">
+
+- [python-tetris-ai](https://github.com/billzi2016/python-tetris-ai)
+- [openai-gym-reinforcement-learning-lab](https://github.com/billzi2016/openai-gym-reinforcement-learning-lab)
+- [inverted-pendulum-rl-lab](https://github.com/billzi2016/inverted-pendulum-rl-lab)
+- [Metropolitan-Routing-Algorithm](https://github.com/billzi2016/Metropolitan-Routing-Algorithm)
+
+</td>
+</tr>
 </table>
 
 ## 练习与学习型仓库
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/whitebox-ml-dl-algo">whitebox-ml-dl-algo</a></li>
-        <li><a href="https://github.com/billzi2016/advanced-search-data-structures">advanced-search-data-structures</a></li>
-        <li><a href="https://github.com/billzi2016/advanced-sorting-algorithms">advanced-sorting-algorithms</a></li>
-        <li><a href="https://github.com/billzi2016/Prime-Sieve-Algorithms">Prime-Sieve-Algorithms</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/Heuristic-Algorithm">Heuristic-Algorithm</a></li>
-        <li><a href="https://github.com/billzi2016/Daily-Leetcode">Daily-Leetcode</a></li>
-        <li><a href="https://github.com/billzi2016/leetcode-terminator">leetcode-terminator</a></li>
-        <li><a href="https://github.com/billzi2016/Study">Study</a></li>
-      </ul>
-    </td>
-  </tr>
+<table>
+<tr>
+<td valign="top">
+
+- [whitebox-ml-dl-algo](https://github.com/billzi2016/whitebox-ml-dl-algo)
+- [advanced-search-data-structures](https://github.com/billzi2016/advanced-search-data-structures)
+- [advanced-sorting-algorithms](https://github.com/billzi2016/advanced-sorting-algorithms)
+
+</td>
+<td valign="top">
+
+- [Prime-Sieve-Algorithms](https://github.com/billzi2016/Prime-Sieve-Algorithms)
+- [Heuristic-Algorithm](https://github.com/billzi2016/Heuristic-Algorithm)
+- [Daily-Leetcode](https://github.com/billzi2016/Daily-Leetcode)
+
+</td>
+<td valign="top">
+
+- [leetcode-terminator](https://github.com/billzi2016/leetcode-terminator)
+- [Study](https://github.com/billzi2016/Study)
+
+</td>
+</tr>
 </table>
 
 ## 其他项目
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/billzi2016.github.io">billzi2016.github.io</a></li>
-        <li><a href="https://github.com/billzi2016/vlm-hybrid-gallery">vlm-hybrid-gallery</a></li>
-        <li><a href="https://github.com/billzi2016/Whisper">Whisper</a></li>
-        <li><a href="https://github.com/billzi2016/real-time-yolo-vision-intelligence-lab">real-time-yolo-vision-intelligence-lab</a></li>
-        <li><a href="https://github.com/billzi2016/MIMO-FMCW-Radar-Simulator-Multiprocess">MIMO-FMCW-Radar-Simulator-Multiprocess</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><a href="https://github.com/billzi2016/mmwave-fmcw-cascade-mimo-sensing-platform">mmwave-fmcw-cascade-mimo-sensing-platform</a></li>
-        <li><a href="https://github.com/billzi2016/mmlock-fmcw-radar-deep-security">mmlock-fmcw-radar-deep-security</a></li>
-        <li><a href="https://github.com/billzi2016/chaos-algorithms">chaos-algorithms</a></li>
-        <li><a href="https://github.com/billzi2016/Four-Color-Theorem">Four-Color-Theorem</a></li>
-        <li><a href="https://github.com/billzi2016/DTMF-Encod-Decode">DTMF-Encod-Decode</a></li>
-      </ul>
-    </td>
-  </tr>
+<table>
+<tr>
+<td valign="top">
+
+- [MIMO-FMCW-Radar-Simulator-Multiprocess](https://github.com/billzi2016/MIMO-FMCW-Radar-Simulator-Multiprocess) · [文档](https://billzi2016.github.io/MIMO-FMCW-Radar-Simulator-Multiprocess/)
+- [mmwave-fmcw-cascade-mimo-sensing-platform](https://github.com/billzi2016/mmwave-fmcw-cascade-mimo-sensing-platform) · [文档](https://billzi2016.github.io/mmwave-fmcw-cascade-mimo-sensing-platform/)
+- [mmlock-fmcw-radar-deep-security](https://github.com/billzi2016/mmlock-fmcw-radar-deep-security) · [文档](https://billzi2016.github.io/mmlock-fmcw-radar-deep-security/)
+- [billzi2016.github.io](https://github.com/billzi2016/billzi2016.github.io)
+
+</td>
+<td valign="top">
+
+- [vlm-hybrid-gallery](https://github.com/billzi2016/vlm-hybrid-gallery)
+- [Whisper](https://github.com/billzi2016/Whisper)
+- [real-time-yolo-vision-intelligence-lab](https://github.com/billzi2016/real-time-yolo-vision-intelligence-lab)
+
+</td>
+<td valign="top">
+
+- [chaos-algorithms](https://github.com/billzi2016/chaos-algorithms)
+- [Four-Color-Theorem](https://github.com/billzi2016/Four-Color-Theorem)
+- [DTMF-Encod-Decode](https://github.com/billzi2016/DTMF-Encod-Decode)
+
+</td>
+</tr>
 </table>
 
 ## 学术主页

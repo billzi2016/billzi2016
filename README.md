@@ -34,7 +34,8 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 <tr>
 <td valign="top">
 
-- [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler)
+- [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler) · [Docs](https://billzi2016.github.io/C-Core-Compiler/)
+- [python-git-reproduction](https://github.com/billzi2016/python-git-reproduction) · [Docs](https://billzi2016.github.io/python-git-reproduction/)
 - [Self-Hosting-C-Core-Compiler](https://github.com/billzi2016/Self-Hosting-C-Core-Compiler)
 - [Homemade-CPython](https://github.com/billzi2016/Homemade-CPython)
 - [Homemade-Tiny-OS](https://github.com/billzi2016/Homemade-Tiny-OS)
@@ -93,6 +94,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 <tr>
 <td valign="top">
 
+- [DeepChrInteract-v2](https://github.com/billzi2016/DeepChrInteract-v2) · [Docs](https://billzi2016.github.io/DeepChrInteract-v2/)
 - [ai-agentic-arxiv-observer](https://github.com/billzi2016/ai-agentic-arxiv-observer)
 - [Daily-Paper-Reading](https://github.com/billzi2016/Daily-Paper-Reading)
 - [LLM-AI-Papers](https://github.com/billzi2016/LLM-AI-Papers)
@@ -107,7 +109,6 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 </td>
 <td valign="top">
 
-- [DeepChrInteract-v2](https://github.com/billzi2016/DeepChrInteract-v2)
 - [Alphafold-V2-Reproduction](https://github.com/billzi2016/Alphafold-V2-Reproduction)
 - [Alphafold-V1-Reproduction](https://github.com/billzi2016/Alphafold-V1-Reproduction)
 - [ViT-H](https://github.com/billzi2016/ViT-H)
@@ -234,6 +235,9 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 <tr>
 <td valign="top">
 
+- [MIMO-FMCW-Radar-Simulator-Multiprocess](https://github.com/billzi2016/MIMO-FMCW-Radar-Simulator-Multiprocess) · [Docs](https://billzi2016.github.io/MIMO-FMCW-Radar-Simulator-Multiprocess/)
+- [mmwave-fmcw-cascade-mimo-sensing-platform](https://github.com/billzi2016/mmwave-fmcw-cascade-mimo-sensing-platform) · [Docs](https://billzi2016.github.io/mmwave-fmcw-cascade-mimo-sensing-platform/)
+- [mmlock-fmcw-radar-deep-security](https://github.com/billzi2016/mmlock-fmcw-radar-deep-security) · [Docs](https://billzi2016.github.io/mmlock-fmcw-radar-deep-security/)
 - [billzi2016.github.io](https://github.com/billzi2016/billzi2016.github.io)
 - [vlm-hybrid-gallery](https://github.com/billzi2016/vlm-hybrid-gallery)
 - [Whisper](https://github.com/billzi2016/Whisper)
@@ -242,13 +246,10 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 <td valign="top">
 
 - [real-time-yolo-vision-intelligence-lab](https://github.com/billzi2016/real-time-yolo-vision-intelligence-lab)
-- [MIMO-FMCW-Radar-Simulator-Multiprocess](https://github.com/billzi2016/MIMO-FMCW-Radar-Simulator-Multiprocess)
-- [mmwave-fmcw-cascade-mimo-sensing-platform](https://github.com/billzi2016/mmwave-fmcw-cascade-mimo-sensing-platform)
 
 </td>
 <td valign="top">
 
-- [mmlock-fmcw-radar-deep-security](https://github.com/billzi2016/mmlock-fmcw-radar-deep-security)
 - [chaos-algorithms](https://github.com/billzi2016/chaos-algorithms)
 - [Four-Color-Theorem](https://github.com/billzi2016/Four-Color-Theorem)
 - [DTMF-Encod-Decode](https://github.com/billzi2016/DTMF-Encod-Decode)
