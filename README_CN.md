@@ -10,14 +10,15 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 ## 重点项目
 
+<table>
+<tr>
+<td valign="top">
+
 - [LLM-Benchmark-Studio](https://github.com/billzi2016/LLM-Benchmark-Studio)  
   本地优先的 LLM 评测平台，使用 Django、Vue、PostgreSQL、RabbitMQ、Celery 和 SSE 组织完整评测流程。
 
 - [Build-DeepSeek-Step-by-Step](https://github.com/billzi2016/Build-DeepSeek-Step-by-Step)  
   从 tokenizer、attention、GQA、MLA、MoE 一路讲到训练与对齐的现代 LLM 拆解项目。
-
-- [Visual-Basic-Core-Compiler](https://github.com/billzi2016/Visual-Basic-Core-Compiler)  
-  用 Python 实现的 Visual Basic 核心编译器，打通词法、语法、语义、IR、Portable C 和可执行产物。
 
 - [Apple-Silicon-LLM-Engine-from-Scratch](https://github.com/billzi2016/Apple-Silicon-LLM-Engine-from-Scratch)  
   面向 Apple Silicon 的 GPT-2 推理引擎，从 NumPy 版一路做到 PyTorch MPS 和 C++/Metal。
@@ -30,6 +31,9 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 - [Leetcode-All-Languages-Best-Solutions](https://github.com/billzi2016/Leetcode-All-Languages-Best-Solutions) · [文档](https://billzi2016.github.io/Leetcode-All-Languages-Best-Solutions/)  
   多语言 LeetCode 最优解整理项目，按难度、题号区间和题目 slug 生成 Markdown，并配套 MkDocs 文档站。
+
+</td>
+<td valign="top">
 
 - [automl-autodl](https://github.com/billzi2016/automl-autodl) · [文档](https://billzi2016.github.io/automl-autodl/)  
   面向 Home Credit 风险建模的表格 AutoML / AutoDL 工作区，包含共享预处理、传统机器学习、PyTorch 深度模型和文档页面。
@@ -54,6 +58,10 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 - [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary) · [文档](https://billzi2016.github.io/whisper-meeting-transcription-translation-and-summary/)  
   基于 Whisper 的会议转写、翻译和摘要项目，预留 GitHub Pages 文档入口。
+
+</td>
+</tr>
+</table>
 
 ## 系统、编译器与运行时
 

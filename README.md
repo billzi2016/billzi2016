@@ -10,14 +10,15 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 
 ## Featured Projects
 
+<table>
+<tr>
+<td valign="top">
+
 - [LLM-Benchmark-Studio](https://github.com/billzi2016/LLM-Benchmark-Studio)  
   Local-first LLM evaluation platform with Django, Vue, PostgreSQL, RabbitMQ, Celery, SSE, and multi-provider model execution.
 
 - [Build-DeepSeek-Step-by-Step](https://github.com/billzi2016/Build-DeepSeek-Step-by-Step)  
   Notebook-first deep dive into modern LLM architecture, covering tokenization, attention, GQA, MLA, MoE, training, and alignment.
-
-- [Visual-Basic-Core-Compiler](https://github.com/billzi2016/Visual-Basic-Core-Compiler)  
-  A Visual Basic core compiler in Python, from tokens and AST to semantic analysis, IR, portable C, and runnable executables.
 
 - [Apple-Silicon-LLM-Engine-from-Scratch](https://github.com/billzi2016/Apple-Silicon-LLM-Engine-from-Scratch)  
   GPT-2 inference engine rebuilt across NumPy, PyTorch MPS, and C++/Metal stages for Apple Silicon.
@@ -30,6 +31,9 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 
 - [Leetcode-All-Languages-Best-Solutions](https://github.com/billzi2016/Leetcode-All-Languages-Best-Solutions) · [Docs](https://billzi2016.github.io/Leetcode-All-Languages-Best-Solutions/)  
   Multi-language LeetCode solution workspace with generated Markdown outputs, difficulty/range organization, and a MkDocs documentation site.
+
+</td>
+<td valign="top">
 
 - [automl-autodl](https://github.com/billzi2016/automl-autodl) · [Docs](https://billzi2016.github.io/automl-autodl/)  
   Unified tabular AutoML and AutoDL workspace for Home Credit risk modeling, with shared preprocessing, classical ML, PyTorch models, and documentation pages.
@@ -54,6 +58,10 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 
 - [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary) · [Docs](https://billzi2016.github.io/whisper-meeting-transcription-translation-and-summary/)  
   Whisper-based meeting transcription, translation, and summarization project with a GitHub Pages documentation entry.
+
+</td>
+</tr>
+</table>
 
 ## Systems, Compilers, and Runtime
 
