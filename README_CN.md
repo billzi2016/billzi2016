@@ -28,6 +28,12 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [GPU-Test-and-Polite-Scheduler](https://github.com/billzi2016/GPU-Test-and-Polite-Scheduler)  
   面向共享 GPU 服务器的实用工具，覆盖验卡、压测、多卡通信测试和礼貌型后台调度。
 
+- [Leetcode-All-Languages-Best-Solutions](https://github.com/billzi2016/Leetcode-All-Languages-Best-Solutions) · [文档](https://billzi2016.github.io/Leetcode-All-Languages-Best-Solutions/)  
+  多语言 LeetCode 最优解整理项目，按难度、题号区间和题目 slug 生成 Markdown，并配套 MkDocs 文档站。
+
+- [automl-autodl](https://github.com/billzi2016/automl-autodl) · [文档](https://billzi2016.github.io/automl-autodl/)  
+  面向 Home Credit 风险建模的表格 AutoML / AutoDL 工作区，包含共享预处理、传统机器学习、PyTorch 深度模型和文档页面。
+
 ## 系统、编译器与运行时
 
 <table>

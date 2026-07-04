@@ -28,6 +28,12 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [GPU-Test-and-Polite-Scheduler](https://github.com/billzi2016/GPU-Test-and-Polite-Scheduler)  
   Practical shared-GPU toolkit for environment checks, stress tests, communication diagnostics, and tmux-based polite scheduling.
 
+- [Leetcode-All-Languages-Best-Solutions](https://github.com/billzi2016/Leetcode-All-Languages-Best-Solutions) · [Docs](https://billzi2016.github.io/Leetcode-All-Languages-Best-Solutions/)  
+  Multi-language LeetCode solution workspace with generated Markdown outputs, difficulty/range organization, and a MkDocs documentation site.
+
+- [automl-autodl](https://github.com/billzi2016/automl-autodl) · [Docs](https://billzi2016.github.io/automl-autodl/)  
+  Unified tabular AutoML and AutoDL workspace for Home Credit risk modeling, with shared preprocessing, classical ML, PyTorch models, and documentation pages.
+
 ## Systems, Compilers, and Runtime
 
 <table>
