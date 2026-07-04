@@ -282,12 +282,12 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [mmwave-fmcw-cascade-mimo-sensing-platform](https://github.com/billzi2016/mmwave-fmcw-cascade-mimo-sensing-platform) · [Docs](https://billzi2016.github.io/mmwave-fmcw-cascade-mimo-sensing-platform/)
 - [mmlock-fmcw-radar-deep-security](https://github.com/billzi2016/mmlock-fmcw-radar-deep-security) · [Docs](https://billzi2016.github.io/mmlock-fmcw-radar-deep-security/)
 - [billzi2016.github.io](https://github.com/billzi2016/billzi2016.github.io)
-- [vlm-hybrid-gallery](https://github.com/billzi2016/vlm-hybrid-gallery)
-- [Whisper](https://github.com/billzi2016/Whisper)
 
 </td>
 <td valign="top">
 
+- [vlm-hybrid-gallery](https://github.com/billzi2016/vlm-hybrid-gallery)
+- [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary) · [Docs](https://billzi2016.github.io/whisper-meeting-transcription-translation-and-summary/)
 - [real-time-yolo-vision-intelligence-lab](https://github.com/billzi2016/real-time-yolo-vision-intelligence-lab)
 
 </td>

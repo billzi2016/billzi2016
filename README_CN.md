@@ -287,7 +287,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 <td valign="top">
 
 - [vlm-hybrid-gallery](https://github.com/billzi2016/vlm-hybrid-gallery)
-- [Whisper](https://github.com/billzi2016/Whisper)
+- [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary) · [文档](https://billzi2016.github.io/whisper-meeting-transcription-translation-and-summary/)
 - [real-time-yolo-vision-intelligence-lab](https://github.com/billzi2016/real-time-yolo-vision-intelligence-lab)
 
 </td>
