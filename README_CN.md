@@ -34,6 +34,27 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [automl-autodl](https://github.com/billzi2016/automl-autodl) · [文档](https://billzi2016.github.io/automl-autodl/)  
   面向 Home Credit 风险建模的表格 AutoML / AutoDL 工作区，包含共享预处理、传统机器学习、PyTorch 深度模型和文档页面。
 
+- [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler) · [文档](https://billzi2016.github.io/C-Core-Compiler/)  
+  C-like 编译器项目，覆盖词法分析、语法分析、语义检查、IR、代码生成和文档页面。
+
+- [python-git-reproduction](https://github.com/billzi2016/python-git-reproduction) · [文档](https://billzi2016.github.io/python-git-reproduction/)  
+  Python 与 Git 可复现实验工作流文档项目，包含 MkDocs 页面和仓库级维护说明。
+
+- [DeepChrInteract-v2](https://github.com/billzi2016/DeepChrInteract-v2) · [文档](https://billzi2016.github.io/DeepChrInteract-v2/)  
+  面向染色质互作建模的深度学习项目，配套 Sphinx 文档站。
+
+- [MIMO-FMCW-Radar-Simulator-Multiprocess](https://github.com/billzi2016/MIMO-FMCW-Radar-Simulator-Multiprocess) · [文档](https://billzi2016.github.io/MIMO-FMCW-Radar-Simulator-Multiprocess/)  
+  多进程 MIMO FMCW 雷达仿真项目，配套公开文档页面。
+
+- [mmwave-fmcw-cascade-mimo-sensing-platform](https://github.com/billzi2016/mmwave-fmcw-cascade-mimo-sensing-platform) · [文档](https://billzi2016.github.io/mmwave-fmcw-cascade-mimo-sensing-platform/)  
+  毫米波 FMCW 级联 MIMO 感知平台，覆盖雷达信号处理和系统工作流文档。
+
+- [mmlock-fmcw-radar-deep-security](https://github.com/billzi2016/mmlock-fmcw-radar-deep-security) · [文档](https://billzi2016.github.io/mmlock-fmcw-radar-deep-security/)  
+  面向毫米波感知、认证与安全研究的 FMCW 雷达深度安全项目，采用文档驱动维护。
+
+- [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary) · [文档](https://billzi2016.github.io/whisper-meeting-transcription-translation-and-summary/)  
+  基于 Whisper 的会议转写、翻译和摘要项目，预留 GitHub Pages 文档入口。
+
 ## 系统、编译器与运行时
 
 <table>

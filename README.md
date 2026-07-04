@@ -34,6 +34,27 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [automl-autodl](https://github.com/billzi2016/automl-autodl) · [Docs](https://billzi2016.github.io/automl-autodl/)  
   Unified tabular AutoML and AutoDL workspace for Home Credit risk modeling, with shared preprocessing, classical ML, PyTorch models, and documentation pages.
 
+- [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler) · [Docs](https://billzi2016.github.io/C-Core-Compiler/)  
+  C-like compiler project covering lexical analysis, parsing, semantic checks, IR, code generation, and documentation.
+
+- [python-git-reproduction](https://github.com/billzi2016/python-git-reproduction) · [Docs](https://billzi2016.github.io/python-git-reproduction/)  
+  Reproducible Python and Git workflow documentation project with MkDocs pages and repository-level maintenance notes.
+
+- [DeepChrInteract-v2](https://github.com/billzi2016/DeepChrInteract-v2) · [Docs](https://billzi2016.github.io/DeepChrInteract-v2/)  
+  Deep learning project for chromatin interaction modeling with a Sphinx documentation site.
+
+- [MIMO-FMCW-Radar-Simulator-Multiprocess](https://github.com/billzi2016/MIMO-FMCW-Radar-Simulator-Multiprocess) · [Docs](https://billzi2016.github.io/MIMO-FMCW-Radar-Simulator-Multiprocess/)  
+  Multiprocess MIMO FMCW radar simulation project with public documentation pages.
+
+- [mmwave-fmcw-cascade-mimo-sensing-platform](https://github.com/billzi2016/mmwave-fmcw-cascade-mimo-sensing-platform) · [Docs](https://billzi2016.github.io/mmwave-fmcw-cascade-mimo-sensing-platform/)  
+  mmWave FMCW cascade MIMO sensing platform with documentation for radar signal processing and system workflows.
+
+- [mmlock-fmcw-radar-deep-security](https://github.com/billzi2016/mmlock-fmcw-radar-deep-security) · [Docs](https://billzi2016.github.io/mmlock-fmcw-radar-deep-security/)  
+  FMCW radar deep-security project for mmWave sensing, authentication, and documentation-driven maintenance.
+
+- [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary) · [Docs](https://billzi2016.github.io/whisper-meeting-transcription-translation-and-summary/)  
+  Whisper-based meeting transcription, translation, and summarization project with a GitHub Pages documentation entry.
+
 ## Systems, Compilers, and Runtime
 
 <table>
