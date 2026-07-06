@@ -5,7 +5,7 @@ LLMs/MLLMs | NLP & CV | GenAI | Industrial & MedAI | XAI & Robustness | mmWave &
 
 Builder of compilers, LLM systems, distributed labs, embedded prototypes, and from-scratch engineering projects.
 
-Homepage: [billzi2016.github.io](https://billzi2016.github.io/)  
+Homepage: [billzi2016.github.io](https://billzi2016.github.io/) · [GitHub Project](https://github.com/billzi2016/billzi2016.github.io) · [Docs](https://billzi2016.github.io/docs/)  
 Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAAAJ&hl=en-US)
 
 ## Featured Projects
@@ -281,7 +281,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [MIMO-FMCW-Radar-Simulator-Multiprocess](https://github.com/billzi2016/MIMO-FMCW-Radar-Simulator-Multiprocess) · [Docs](https://billzi2016.github.io/MIMO-FMCW-Radar-Simulator-Multiprocess/)
 - [mmwave-fmcw-cascade-mimo-sensing-platform](https://github.com/billzi2016/mmwave-fmcw-cascade-mimo-sensing-platform) · [Docs](https://billzi2016.github.io/mmwave-fmcw-cascade-mimo-sensing-platform/)
 - [mmlock-fmcw-radar-deep-security](https://github.com/billzi2016/mmlock-fmcw-radar-deep-security) · [Docs](https://billzi2016.github.io/mmlock-fmcw-radar-deep-security/)
-- [billzi2016.github.io](https://github.com/billzi2016/billzi2016.github.io)
+- [billzi2016.github.io](https://github.com/billzi2016/billzi2016.github.io) · [Website](https://billzi2016.github.io/) · [Docs](https://billzi2016.github.io/docs/)
 
 </td>
 <td valign="top">

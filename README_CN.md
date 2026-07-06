@@ -5,7 +5,7 @@ LLMs/MLLMs | NLP 与 CV | GenAI | 工业与医疗 AI | XAI 与鲁棒性 | 毫米
 
 主要做编译器、LLM 系统、分布式实验平台、嵌入式原型，以及各种从零实现的工程项目。
 
-个人主页：[billzi2016.github.io](https://billzi2016.github.io/)  
+个人主页：[billzi2016.github.io](https://billzi2016.github.io/) · [GitHub 项目](https://github.com/billzi2016/billzi2016.github.io) · [文档](https://billzi2016.github.io/docs/)  
 Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAAAJ&hl=en-US)
 
 ## 重点项目
@@ -281,7 +281,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [MIMO-FMCW-Radar-Simulator-Multiprocess](https://github.com/billzi2016/MIMO-FMCW-Radar-Simulator-Multiprocess) · [文档](https://billzi2016.github.io/MIMO-FMCW-Radar-Simulator-Multiprocess/)
 - [mmwave-fmcw-cascade-mimo-sensing-platform](https://github.com/billzi2016/mmwave-fmcw-cascade-mimo-sensing-platform) · [文档](https://billzi2016.github.io/mmwave-fmcw-cascade-mimo-sensing-platform/)
 - [mmlock-fmcw-radar-deep-security](https://github.com/billzi2016/mmlock-fmcw-radar-deep-security) · [文档](https://billzi2016.github.io/mmlock-fmcw-radar-deep-security/)
-- [billzi2016.github.io](https://github.com/billzi2016/billzi2016.github.io)
+- [billzi2016.github.io](https://github.com/billzi2016/billzi2016.github.io) · [网站](https://billzi2016.github.io/) · [文档](https://billzi2016.github.io/docs/)
 
 </td>
 <td valign="top">
