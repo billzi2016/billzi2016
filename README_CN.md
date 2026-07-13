@@ -46,6 +46,12 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [automl-autodl](https://github.com/billzi2016/automl-autodl) · [文档](https://billzi2016.github.io/automl-autodl/)  
   面向 Home Credit 风险建模的表格 AutoML / AutoDL 工作区，包含共享预处理、传统机器学习、PyTorch 深度模型和文档页面。
 
+- [AI-Solar-Panel-Defect-Detection-Deployment](https://github.com/billzi2016/AI-Solar-Panel-Defect-Detection-Deployment) · [文档](https://billzi2016.github.io/AI-Solar-Panel-Defect-Detection-Deployment/)  
+  面向太阳能电池和光伏面板缺陷检测的工作区，覆盖数据准备、YOLO 检测实验、异常检测、部署辅助工具和双语 MkDocs 文档。
+
+- [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [演示](https://billzi2016.github.io/Gomoku-AI/) · [文档](https://billzi2016.github.io/Gomoku-AI/docs/)  
+  基于 Rust/Wasm 的浏览器五子棋 AI，包含 bitboard、VCF 搜索、Alpha-Beta 剪枝、迭代加深、Web Worker 并行和本地 CPU 推理。
+
 - [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler) · [文档](https://billzi2016.github.io/C-Core-Compiler/)  
   C-like 编译器项目，覆盖词法分析、语法分析、语义检查、IR、代码生成和文档页面。
 
@@ -64,8 +70,8 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [mmlock-fmcw-radar-deep-security](https://github.com/billzi2016/mmlock-fmcw-radar-deep-security) · [文档](https://billzi2016.github.io/mmlock-fmcw-radar-deep-security/)  
   面向毫米波感知、认证与安全研究的 FMCW 雷达深度安全项目，采用文档驱动维护。
 
-- [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary) · [文档](https://billzi2016.github.io/whisper-meeting-transcription-translation-and-summary/)  
-  基于 Whisper 的会议转写、翻译和摘要项目，预留 GitHub Pages 文档入口。
+- [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary)  
+  面向本地音视频文件的离线字幕生成和双语翻译工具，支持 Apple Silicon 上的 MLX 加速和本地 LLM 工作流。
 
 </td>
 </tr>
@@ -223,20 +229,23 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 <td valign="top">
 
 - [gomoku-terminator](https://github.com/billzi2016/gomoku-terminator)
+- [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [演示](https://billzi2016.github.io/Gomoku-AI/) · [文档](https://billzi2016.github.io/Gomoku-AI/docs/)
 - [RL-MCTS-gomoku-zero-11x11](https://github.com/billzi2016/RL-MCTS-gomoku-zero-11x11)
 - [gomoku-minimax-engine](https://github.com/billzi2016/gomoku-minimax-engine)
 
 </td>
 <td valign="top">
 
+- [Othello-AI](https://github.com/billzi2016/Othello-AI) · [演示](https://billzi2016.github.io/Othello-AI/) · [文档](https://billzi2016.github.io/Othello-AI/docs/)
 - [reversi-mcts-rl-zero](https://github.com/billzi2016/reversi-mcts-rl-zero)
 - [reversi-minimax-alphabeta](https://github.com/billzi2016/reversi-minimax-alphabeta)
-- [2048-expectimax-bitboard](https://github.com/billzi2016/2048-expectimax-bitboard)
+- [4096-expectimax-bitboard](https://github.com/billzi2016/4096-expectimax-bitboard)
 
 </td>
 <td valign="top">
 
-- [python-tetris-ai](https://github.com/billzi2016/python-tetris-ai)
+- [python-falling-blocks-ai](https://github.com/billzi2016/python-falling-blocks-ai)
+- [guesswho-ai-from-scratch](https://github.com/billzi2016/guesswho-ai-from-scratch) · [演示](https://billzi2016.github.io/guesswho-ai-from-scratch/)
 - [openai-gym-reinforcement-learning-lab](https://github.com/billzi2016/openai-gym-reinforcement-learning-lab)
 - [inverted-pendulum-rl-lab](https://github.com/billzi2016/inverted-pendulum-rl-lab)
 - [Metropolitan-Routing-Algorithm](https://github.com/billzi2016/Metropolitan-Routing-Algorithm)
@@ -287,7 +296,8 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 <td valign="top">
 
 - [vlm-hybrid-gallery](https://github.com/billzi2016/vlm-hybrid-gallery)
-- [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary) · [文档](https://billzi2016.github.io/whisper-meeting-transcription-translation-and-summary/)
+- [Receipt-MLLM-OCR](https://github.com/billzi2016/Receipt-MLLM-OCR)
+- [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary)
 - [real-time-yolo-vision-intelligence-lab](https://github.com/billzi2016/real-time-yolo-vision-intelligence-lab)
 
 </td>

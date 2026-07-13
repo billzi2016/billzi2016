@@ -46,6 +46,12 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [automl-autodl](https://github.com/billzi2016/automl-autodl) · [Docs](https://billzi2016.github.io/automl-autodl/)  
   Unified tabular AutoML and AutoDL workspace for Home Credit risk modeling, with shared preprocessing, classical ML, PyTorch models, and documentation pages.
 
+- [AI-Solar-Panel-Defect-Detection-Deployment](https://github.com/billzi2016/AI-Solar-Panel-Defect-Detection-Deployment) · [Docs](https://billzi2016.github.io/AI-Solar-Panel-Defect-Detection-Deployment/)  
+  Solar-cell and photovoltaic-panel defect detection workspace with dataset preparation, YOLO detection experiments, anomaly detection, deployment helpers, and bilingual MkDocs documentation.
+
+- [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [Demo](https://billzi2016.github.io/Gomoku-AI/) · [Docs](https://billzi2016.github.io/Gomoku-AI/docs/)  
+  Browser-based Rust/Wasm Gomoku AI with bitboards, VCF search, alpha-beta pruning, iterative deepening, Web Worker parallelism, and local CPU execution.
+
 - [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler) · [Docs](https://billzi2016.github.io/C-Core-Compiler/)  
   C-like compiler project covering lexical analysis, parsing, semantic checks, IR, code generation, and documentation.
 
@@ -64,8 +70,8 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [mmlock-fmcw-radar-deep-security](https://github.com/billzi2016/mmlock-fmcw-radar-deep-security) · [Docs](https://billzi2016.github.io/mmlock-fmcw-radar-deep-security/)  
   FMCW radar deep-security project for mmWave sensing, authentication, and documentation-driven maintenance.
 
-- [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary) · [Docs](https://billzi2016.github.io/whisper-meeting-transcription-translation-and-summary/)  
-  Whisper-based meeting transcription, translation, and summarization project with a GitHub Pages documentation entry.
+- [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary)  
+  Offline subtitle generation and bilingual translation tool for local audio and video files, accelerated with MLX on Apple Silicon and powered by local LLM workflows.
 
 </td>
 </tr>
@@ -223,20 +229,23 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 <td valign="top">
 
 - [gomoku-terminator](https://github.com/billzi2016/gomoku-terminator)
+- [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [Demo](https://billzi2016.github.io/Gomoku-AI/) · [Docs](https://billzi2016.github.io/Gomoku-AI/docs/)
 - [RL-MCTS-gomoku-zero-11x11](https://github.com/billzi2016/RL-MCTS-gomoku-zero-11x11)
 - [gomoku-minimax-engine](https://github.com/billzi2016/gomoku-minimax-engine)
 
 </td>
 <td valign="top">
 
+- [Othello-AI](https://github.com/billzi2016/Othello-AI) · [Demo](https://billzi2016.github.io/Othello-AI/) · [Docs](https://billzi2016.github.io/Othello-AI/docs/)
 - [reversi-mcts-rl-zero](https://github.com/billzi2016/reversi-mcts-rl-zero)
 - [reversi-minimax-alphabeta](https://github.com/billzi2016/reversi-minimax-alphabeta)
-- [2048-expectimax-bitboard](https://github.com/billzi2016/2048-expectimax-bitboard)
+- [4096-expectimax-bitboard](https://github.com/billzi2016/4096-expectimax-bitboard)
 
 </td>
 <td valign="top">
 
-- [python-tetris-ai](https://github.com/billzi2016/python-tetris-ai)
+- [python-falling-blocks-ai](https://github.com/billzi2016/python-falling-blocks-ai)
+- [guesswho-ai-from-scratch](https://github.com/billzi2016/guesswho-ai-from-scratch) · [Demo](https://billzi2016.github.io/guesswho-ai-from-scratch/)
 - [openai-gym-reinforcement-learning-lab](https://github.com/billzi2016/openai-gym-reinforcement-learning-lab)
 - [inverted-pendulum-rl-lab](https://github.com/billzi2016/inverted-pendulum-rl-lab)
 - [Metropolitan-Routing-Algorithm](https://github.com/billzi2016/Metropolitan-Routing-Algorithm)
@@ -287,7 +296,8 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 <td valign="top">
 
 - [vlm-hybrid-gallery](https://github.com/billzi2016/vlm-hybrid-gallery)
-- [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary) · [Docs](https://billzi2016.github.io/whisper-meeting-transcription-translation-and-summary/)
+- [Receipt-MLLM-OCR](https://github.com/billzi2016/Receipt-MLLM-OCR)
+- [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary)
 - [real-time-yolo-vision-intelligence-lab](https://github.com/billzi2016/real-time-yolo-vision-intelligence-lab)
 
 </td>
