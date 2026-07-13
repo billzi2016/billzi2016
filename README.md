@@ -135,6 +135,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [LLM-SFT-PEFT-Preference-RL-Quantization-Inference-Deployment](https://github.com/billzi2016/LLM-SFT-PEFT-Preference-RL-Quantization-Inference-Deployment)
 - [ai-agent-practice-playbook](https://github.com/billzi2016/ai-agent-practice-playbook)
 - [FlashcardsAPP](https://github.com/billzi2016/FlashcardsAPP)
+- [midi-react-ai-agent-search](https://github.com/billzi2016/midi-react-ai-agent-search)
 
 </td>
 <td valign="top">
@@ -144,7 +145,6 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [LLM-Gap-Tracker](https://github.com/billzi2016/LLM-Gap-Tracker)
 - [ReAct-AI-Agent](https://github.com/billzi2016/ReAct-AI-Agent)
 - [chinapost-internship](https://github.com/billzi2016/chinapost-internship) · [Docs](https://billzi2016.github.io/chinapost-internship/)
-- [midi-react-ai-agent-search](https://github.com/billzi2016/midi-react-ai-agent-search)
 
 </td>
 </tr>
@@ -223,11 +223,11 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [ATmega2560-Graphical-RPN-Scientific-Calculator](https://github.com/billzi2016/ATmega2560-Graphical-RPN-Scientific-Calculator)
 - [ATMega328p-RPN-Scientific-Calculator](https://github.com/billzi2016/ATMega328p-RPN-Scientific-Calculator)
 - [ATmega2560-LCD12864-Game-Of-Life](https://github.com/billzi2016/ATmega2560-LCD12864-Game-Of-Life)
-- [LCD12864-Bad-Apple](https://github.com/billzi2016/LCD12864-Bad-Apple)
 
 </td>
 <td valign="top">
 
+- [LCD12864-Bad-Apple](https://github.com/billzi2016/LCD12864-Bad-Apple)
 - [LCD12864-Dither-TV](https://github.com/billzi2016/LCD12864-Dither-TV)
 - [Arduino-Wired-Telegraph](https://github.com/billzi2016/Arduino-Wired-Telegraph)
 - [ESP32-Weather-Box](https://github.com/billzi2016/ESP32-Weather-Box)
