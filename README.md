@@ -14,6 +14,15 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 <tr>
 <td valign="top">
 
+- [AI-Solar-Panel-Defect-Detection-Deployment](https://github.com/billzi2016/AI-Solar-Panel-Defect-Detection-Deployment) · [Docs](https://billzi2016.github.io/AI-Solar-Panel-Defect-Detection-Deployment/)  
+  Solar-cell and photovoltaic-panel defect detection workspace with dataset preparation, YOLO detection experiments, anomaly detection, deployment helpers, and bilingual MkDocs documentation.
+
+- [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [Demo](https://billzi2016.github.io/Gomoku-AI/) · [Docs](https://billzi2016.github.io/Gomoku-AI/docs/)  
+  Browser-based Rust/Wasm Gomoku AI with bitboards, VCF search, alpha-beta pruning, iterative deepening, Web Worker parallelism, and local CPU execution.
+
+- [Othello-AI](https://github.com/billzi2016/Othello-AI) · [Demo](https://billzi2016.github.io/Othello-AI/) · [Docs](https://billzi2016.github.io/Othello-AI/docs/)  
+  Browser-based Rust/Wasm Othello AI with bitboards, alpha-beta search, exact endgame search, stability-aware evaluation, and Web Worker parallelism.
+
 - [LLM-Benchmark-Studio](https://github.com/billzi2016/LLM-Benchmark-Studio)  
   Local-first LLM evaluation platform with Django, Vue, PostgreSQL, RabbitMQ, Celery, SSE, and multi-provider model execution.
 
@@ -37,20 +46,14 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
   TypeScript, PHP, Swift, Kotlin, Dart, Go, Ruby  
   Scala, Rust, Racket, Erlang, Elixir.
 
-- [Industrial-Query-Agent](https://github.com/billzi2016/Industrial-Query-Agent)  
-  Industrial query agent project for structured domain question answering, retrieval-oriented workflows, and practical agentic system design.
-
 </td>
 <td valign="top">
 
+- [Industrial-Query-Agent](https://github.com/billzi2016/Industrial-Query-Agent)  
+  Industrial query agent project for structured domain question answering, retrieval-oriented workflows, and practical agentic system design.
+
 - [automl-autodl](https://github.com/billzi2016/automl-autodl) · [Docs](https://billzi2016.github.io/automl-autodl/)  
   Unified tabular AutoML and AutoDL workspace for Home Credit risk modeling, with shared preprocessing, classical ML, PyTorch models, and documentation pages.
-
-- [AI-Solar-Panel-Defect-Detection-Deployment](https://github.com/billzi2016/AI-Solar-Panel-Defect-Detection-Deployment) · [Docs](https://billzi2016.github.io/AI-Solar-Panel-Defect-Detection-Deployment/)  
-  Solar-cell and photovoltaic-panel defect detection workspace with dataset preparation, YOLO detection experiments, anomaly detection, deployment helpers, and bilingual MkDocs documentation.
-
-- [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [Demo](https://billzi2016.github.io/Gomoku-AI/) · [Docs](https://billzi2016.github.io/Gomoku-AI/docs/)  
-  Browser-based Rust/Wasm Gomoku AI with bitboards, VCF search, alpha-beta pruning, iterative deepening, Web Worker parallelism, and local CPU execution.
 
 - [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler) · [Docs](https://billzi2016.github.io/C-Core-Compiler/)  
   C-like compiler project covering lexical analysis, parsing, semantic checks, IR, code generation, and documentation.
@@ -230,13 +233,13 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 
 - [gomoku-terminator](https://github.com/billzi2016/gomoku-terminator)
 - [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [Demo](https://billzi2016.github.io/Gomoku-AI/) · [Docs](https://billzi2016.github.io/Gomoku-AI/docs/)
+- [Othello-AI](https://github.com/billzi2016/Othello-AI) · [Demo](https://billzi2016.github.io/Othello-AI/) · [Docs](https://billzi2016.github.io/Othello-AI/docs/)
 - [RL-MCTS-gomoku-zero-11x11](https://github.com/billzi2016/RL-MCTS-gomoku-zero-11x11)
 - [gomoku-minimax-engine](https://github.com/billzi2016/gomoku-minimax-engine)
 
 </td>
 <td valign="top">
 
-- [Othello-AI](https://github.com/billzi2016/Othello-AI) · [Demo](https://billzi2016.github.io/Othello-AI/) · [Docs](https://billzi2016.github.io/Othello-AI/docs/)
 - [reversi-mcts-rl-zero](https://github.com/billzi2016/reversi-mcts-rl-zero)
 - [reversi-minimax-alphabeta](https://github.com/billzi2016/reversi-minimax-alphabeta)
 - [4096-expectimax-bitboard](https://github.com/billzi2016/4096-expectimax-bitboard)

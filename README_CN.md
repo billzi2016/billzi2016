@@ -14,6 +14,15 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 <tr>
 <td valign="top">
 
+- [AI-Solar-Panel-Defect-Detection-Deployment](https://github.com/billzi2016/AI-Solar-Panel-Defect-Detection-Deployment) · [文档](https://billzi2016.github.io/AI-Solar-Panel-Defect-Detection-Deployment/)  
+  面向太阳能电池和光伏面板缺陷检测的工作区，覆盖数据准备、YOLO 检测实验、异常检测、部署辅助工具和双语 MkDocs 文档。
+
+- [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [演示](https://billzi2016.github.io/Gomoku-AI/) · [文档](https://billzi2016.github.io/Gomoku-AI/docs/)  
+  基于 Rust/Wasm 的浏览器五子棋 AI，包含 bitboard、VCF 搜索、Alpha-Beta 剪枝、迭代加深、Web Worker 并行和本地 CPU 推理。
+
+- [Othello-AI](https://github.com/billzi2016/Othello-AI) · [演示](https://billzi2016.github.io/Othello-AI/) · [文档](https://billzi2016.github.io/Othello-AI/docs/)  
+  基于 Rust/Wasm 的浏览器黑白棋 AI，包含 bitboard、Alpha-Beta 搜索、精确残局搜索、稳定子评估和 Web Worker 并行。
+
 - [LLM-Benchmark-Studio](https://github.com/billzi2016/LLM-Benchmark-Studio)  
   本地优先的 LLM 评测平台，使用 Django、Vue、PostgreSQL、RabbitMQ、Celery 和 SSE 组织完整评测流程。
 
@@ -37,20 +46,14 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
   TypeScript、PHP、Swift、Kotlin、Dart、Go、Ruby  
   Scala、Rust、Racket、Erlang、Elixir。
 
-- [Industrial-Query-Agent](https://github.com/billzi2016/Industrial-Query-Agent)  
-  面向工业领域问答、检索式工作流和实用 Agent 系统设计的查询助手项目。
-
 </td>
 <td valign="top">
 
+- [Industrial-Query-Agent](https://github.com/billzi2016/Industrial-Query-Agent)  
+  面向工业领域问答、检索式工作流和实用 Agent 系统设计的查询助手项目。
+
 - [automl-autodl](https://github.com/billzi2016/automl-autodl) · [文档](https://billzi2016.github.io/automl-autodl/)  
   面向 Home Credit 风险建模的表格 AutoML / AutoDL 工作区，包含共享预处理、传统机器学习、PyTorch 深度模型和文档页面。
-
-- [AI-Solar-Panel-Defect-Detection-Deployment](https://github.com/billzi2016/AI-Solar-Panel-Defect-Detection-Deployment) · [文档](https://billzi2016.github.io/AI-Solar-Panel-Defect-Detection-Deployment/)  
-  面向太阳能电池和光伏面板缺陷检测的工作区，覆盖数据准备、YOLO 检测实验、异常检测、部署辅助工具和双语 MkDocs 文档。
-
-- [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [演示](https://billzi2016.github.io/Gomoku-AI/) · [文档](https://billzi2016.github.io/Gomoku-AI/docs/)  
-  基于 Rust/Wasm 的浏览器五子棋 AI，包含 bitboard、VCF 搜索、Alpha-Beta 剪枝、迭代加深、Web Worker 并行和本地 CPU 推理。
 
 - [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler) · [文档](https://billzi2016.github.io/C-Core-Compiler/)  
   C-like 编译器项目，覆盖词法分析、语法分析、语义检查、IR、代码生成和文档页面。
@@ -230,13 +233,13 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 - [gomoku-terminator](https://github.com/billzi2016/gomoku-terminator)
 - [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [演示](https://billzi2016.github.io/Gomoku-AI/) · [文档](https://billzi2016.github.io/Gomoku-AI/docs/)
+- [Othello-AI](https://github.com/billzi2016/Othello-AI) · [演示](https://billzi2016.github.io/Othello-AI/) · [文档](https://billzi2016.github.io/Othello-AI/docs/)
 - [RL-MCTS-gomoku-zero-11x11](https://github.com/billzi2016/RL-MCTS-gomoku-zero-11x11)
 - [gomoku-minimax-engine](https://github.com/billzi2016/gomoku-minimax-engine)
 
 </td>
 <td valign="top">
 
-- [Othello-AI](https://github.com/billzi2016/Othello-AI) · [演示](https://billzi2016.github.io/Othello-AI/) · [文档](https://billzi2016.github.io/Othello-AI/docs/)
 - [reversi-mcts-rl-zero](https://github.com/billzi2016/reversi-mcts-rl-zero)
 - [reversi-minimax-alphabeta](https://github.com/billzi2016/reversi-minimax-alphabeta)
 - [4096-expectimax-bitboard](https://github.com/billzi2016/4096-expectimax-bitboard)
