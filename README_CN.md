@@ -91,20 +91,20 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Self-Hosting-C-Core-Compiler](https://github.com/billzi2016/Self-Hosting-C-Core-Compiler)
 - [Homemade-CPython](https://github.com/billzi2016/Homemade-CPython)
 - [Visual-Basic-Core-Compiler](https://github.com/billzi2016/Visual-Basic-Core-Compiler)
-- [build-from-scratch](https://github.com/billzi2016/build-from-scratch)
 
 </td>
 <td valign="top">
 
+- [build-from-scratch](https://github.com/billzi2016/build-from-scratch)
 - [Homemade-Tiny-OS](https://github.com/billzi2016/Homemade-Tiny-OS)
 - [Autograd-Compiler-Engine](https://github.com/billzi2016/Autograd-Compiler-Engine)
 - [Automatic-Differentiation-From-Scratch](https://github.com/billzi2016/Automatic-Differentiation-From-Scratch)
 - [bignum-from-scratch](https://github.com/billzi2016/bignum-from-scratch)
-- [cordic-fixedpoint-algorithm](https://github.com/billzi2016/cordic-fixedpoint-algorithm)
 
 </td>
 <td valign="top">
 
+- [cordic-fixedpoint-algorithm](https://github.com/billzi2016/cordic-fixedpoint-algorithm)
 - [http-server-from--scratch](https://github.com/billzi2016/http-server-from--scratch)
 - [Smart-Huffman-Archiver](https://github.com/billzi2016/Smart-Huffman-Archiver)
 - [SQLite-Chaos-Tester](https://github.com/billzi2016/SQLite-Chaos-Tester)
@@ -125,6 +125,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [AI-Agent](https://github.com/billzi2016/AI-Agent)
 - [Deep-Learning-The-Definitive-Guide](https://github.com/billzi2016/Deep-Learning-The-Definitive-Guide) · [文档](https://billzi2016.github.io/Deep-Learning-The-Definitive-Guide/)
 - [awesome-LLMs](https://github.com/billzi2016/awesome-LLMs)
+- [speckit](https://github.com/billzi2016/speckit)
 
 </td>
 <td valign="top">
@@ -144,7 +145,6 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [ReAct-AI-Agent](https://github.com/billzi2016/ReAct-AI-Agent)
 - [chinapost-internship](https://github.com/billzi2016/chinapost-internship) · [文档](https://billzi2016.github.io/chinapost-internship/)
 - [midi-react-ai-agent-search](https://github.com/billzi2016/midi-react-ai-agent-search)
-- [speckit](https://github.com/billzi2016/speckit)
 
 </td>
 </tr>
@@ -160,6 +160,8 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [ai-agentic-arxiv-observer](https://github.com/billzi2016/ai-agentic-arxiv-observer)
 - [Daily-Paper-Reading](https://github.com/billzi2016/Daily-Paper-Reading)
 - [LLM-AI-Papers](https://github.com/billzi2016/LLM-AI-Papers)
+- [foundation-model-analysis](https://github.com/billzi2016/foundation-model-analysis)
+- [generative-models](https://github.com/billzi2016/generative-models)
 
 </td>
 <td valign="top">
@@ -169,6 +171,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [MRI_Deep_Learning_Projects](https://github.com/billzi2016/MRI_Deep_Learning_Projects)
 - [Facial-Recognition](https://github.com/billzi2016/Facial-Recognition) · [文档](https://billzi2016.github.io/Facial-Recognition/)
 - [Recommender-Systems](https://github.com/billzi2016/Recommender-Systems)
+- [SFCN-age-gender-balanced](https://github.com/billzi2016/SFCN-age-gender-balanced)
 
 </td>
 <td valign="top">
@@ -176,9 +179,6 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Alphafold-V2-Reproduction](https://github.com/billzi2016/Alphafold-V2-Reproduction)
 - [Alphafold-V1-Reproduction](https://github.com/billzi2016/Alphafold-V1-Reproduction)
 - [ViT-H](https://github.com/billzi2016/ViT-H)
-- [foundation-model-analysis](https://github.com/billzi2016/foundation-model-analysis)
-- [generative-models](https://github.com/billzi2016/generative-models)
-- [SFCN-age-gender-balanced](https://github.com/billzi2016/SFCN-age-gender-balanced)
 - [RomeInADay](https://github.com/billzi2016/RomeInADay)
 - [homemade-datarobot](https://github.com/billzi2016/homemade-datarobot)
 
@@ -195,19 +195,19 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [NodeExporter-Prometheus-Grafana](https://github.com/billzi2016/NodeExporter-Prometheus-Grafana)
 - [Apple-Silicon-Profiler](https://github.com/billzi2016/Apple-Silicon-Profiler)
 - [system-burner](https://github.com/billzi2016/system-burner)
-- [GPU-Test-and-Polite-Scheduler-EN](https://github.com/billzi2016/GPU-Test-and-Polite-Scheduler-EN)
 
 </td>
 <td valign="top">
 
+- [GPU-Test-and-Polite-Scheduler-EN](https://github.com/billzi2016/GPU-Test-and-Polite-Scheduler-EN)
 - [ESP8266-Codex-Usage-Monitor](https://github.com/billzi2016/ESP8266-Codex-Usage-Monitor)
 - [ESP8266-Token-Counter](https://github.com/billzi2016/ESP8266-Token-Counter)
-- [ESP32-Prometheus-PC-Monitor](https://github.com/billzi2016/ESP32-Prometheus-PC-Monitor)
-- [backup-utils](https://github.com/billzi2016/backup-utils)
 
 </td>
 <td valign="top">
 
+- [ESP32-Prometheus-PC-Monitor](https://github.com/billzi2016/ESP32-Prometheus-PC-Monitor)
+- [backup-utils](https://github.com/billzi2016/backup-utils)
 - [system-design-interview](https://github.com/billzi2016/system-design-interview)
 
 </td>
@@ -231,6 +231,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [LCD12864-Dither-TV](https://github.com/billzi2016/LCD12864-Dither-TV)
 - [Arduino-Wired-Telegraph](https://github.com/billzi2016/Arduino-Wired-Telegraph)
 - [ESP32-Weather-Box](https://github.com/billzi2016/ESP32-Weather-Box)
+- [immersive-vr-xr-security-telemetry-platform](https://github.com/billzi2016/immersive-vr-xr-security-telemetry-platform)
 
 </td>
 <td valign="top">
@@ -238,7 +239,6 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [intelligent-esp32-drone-racing-gate-system](https://github.com/billzi2016/intelligent-esp32-drone-racing-gate-system)
 - [MCU-Design-and-Prototypes-Sandbox](https://github.com/billzi2016/MCU-Design-and-Prototypes-Sandbox)
 - [RS485-Modbus-Concrete-Sensor-Monitor](https://github.com/billzi2016/RS485-Modbus-Concrete-Sensor-Monitor)
-- [immersive-vr-xr-security-telemetry-platform](https://github.com/billzi2016/immersive-vr-xr-security-telemetry-platform)
 
 </td>
 </tr>
@@ -264,13 +264,13 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [reversi-minimax-alphabeta](https://github.com/billzi2016/reversi-minimax-alphabeta)
 - [4096-expectimax-bitboard](https://github.com/billzi2016/4096-expectimax-bitboard)
 - [tennis-for-two](https://github.com/billzi2016/tennis-for-two) · [演示](https://billzi2016.github.io/tennis-for-two/)
+- [maze-algorithms](https://github.com/billzi2016/maze-algorithms)
 
 </td>
 <td valign="top">
 
 - [python-falling-blocks-ai](https://github.com/billzi2016/python-falling-blocks-ai)
 - [guesswho-ai-from-scratch](https://github.com/billzi2016/guesswho-ai-from-scratch) · [演示](https://billzi2016.github.io/guesswho-ai-from-scratch/)
-- [maze-algorithms](https://github.com/billzi2016/maze-algorithms)
 - [openai-gym-reinforcement-learning-lab](https://github.com/billzi2016/openai-gym-reinforcement-learning-lab)
 - [inverted-pendulum-rl-lab](https://github.com/billzi2016/inverted-pendulum-rl-lab)
 - [Metropolitan-Routing-Algorithm](https://github.com/billzi2016/Metropolitan-Routing-Algorithm)
@@ -295,11 +295,11 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Prime-Sieve-Algorithms](https://github.com/billzi2016/Prime-Sieve-Algorithms)
 - [Heuristic-Algorithm](https://github.com/billzi2016/Heuristic-Algorithm)
 - [Daily-Leetcode](https://github.com/billzi2016/Daily-Leetcode)
-- [django-with-speckit](https://github.com/billzi2016/django-with-speckit)
 
 </td>
 <td valign="top">
 
+- [django-with-speckit](https://github.com/billzi2016/django-with-speckit)
 - [leetcode-terminator](https://github.com/billzi2016/leetcode-terminator)
 
 </td>
