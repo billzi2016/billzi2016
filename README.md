@@ -20,9 +20,6 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [Demo](https://billzi2016.github.io/Gomoku-AI/) · [Docs](https://billzi2016.github.io/Gomoku-AI/docs/)  
   Browser-based Rust/Wasm Gomoku AI with bitboards, VCF search, alpha-beta pruning, iterative deepening, Web Worker parallelism, and local CPU execution.
 
-- [Othello-AI](https://github.com/billzi2016/Othello-AI) · [Demo](https://billzi2016.github.io/Othello-AI/) · [Docs](https://billzi2016.github.io/Othello-AI/docs/)  
-  Browser-based Rust/Wasm Othello AI with bitboards, alpha-beta search, exact endgame search, stability-aware evaluation, and Web Worker parallelism.
-
 - [LLM-Benchmark-Studio](https://github.com/billzi2016/LLM-Benchmark-Studio)  
   Local-first LLM evaluation platform with Django, Vue, PostgreSQL, RabbitMQ, Celery, SSE, and multi-provider model execution.
 
@@ -51,6 +48,9 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 
 - [Industrial-Query-Agent](https://github.com/billzi2016/Industrial-Query-Agent)  
   Industrial query agent project for structured domain question answering, retrieval-oriented workflows, and practical agentic system design.
+
+- [Othello-AI](https://github.com/billzi2016/Othello-AI) · [Demo](https://billzi2016.github.io/Othello-AI/) · [Docs](https://billzi2016.github.io/Othello-AI/docs/)  
+  Browser-based Rust/Wasm Othello AI with bitboards, alpha-beta search, exact endgame search, stability-aware evaluation, and Web Worker parallelism.
 
 - [automl-autodl](https://github.com/billzi2016/automl-autodl) · [Docs](https://billzi2016.github.io/automl-autodl/)  
   Unified tabular AutoML and AutoDL workspace for Home Credit risk modeling, with shared preprocessing, classical ML, PyTorch models, and documentation pages.
