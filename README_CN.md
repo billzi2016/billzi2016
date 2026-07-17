@@ -1,6 +1,7 @@
 # Bill Zi
 
 计算机科学博士，Purdue University / Indiana University  
+
 LLMs/MLLMs | AI Agentic Systems | Agent Orchestration & Harnesses | RAG | NLP 与 CV | GenAI | 工业与医疗 AI | XAI 与鲁棒性 | 毫米波与嵌入式
 
 主要做编译器、LLM 系统、分布式实验平台、嵌入式原型，以及各种从零实现的工程项目。

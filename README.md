@@ -1,6 +1,7 @@
 # Bill Zi
 
 CS Ph.D., Purdue University, Indiana University  
+
 LLMs/MLLMs | AI Agentic Systems | Agent Orchestration & Harnesses | RAG | NLP & CV | GenAI | Industrial & MedAI | XAI & Robustness | mmWave & Embedded
 
 Builder of compilers, LLM systems, distributed labs, embedded prototypes, and from-scratch engineering projects.
