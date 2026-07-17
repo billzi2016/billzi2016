@@ -43,7 +43,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
   TypeScript、PHP、Swift、Kotlin、Dart、Go、Ruby  
   Scala、Rust、Racket、Erlang、Elixir。
 
-- [homemade-risc-v-64-vector-linux-emulator](https://github.com/billzi2016/homemade-risc-v-64-vector-linux-emulator)  
+- [homemade-risc-v-64-vector-linux-emulator](https://github.com/billzi2016/homemade-risc-v-64-vector-linux-emulator) · [文档](https://billzi2016.github.io/homemade-risc-v-64-vector-linux-emulator/)  
   从零实现的教学型 64 位 RISC-V 模拟器，支持向量扩展与 Linux 启动。
 
 </td>
@@ -89,13 +89,12 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 <tr>
 <td valign="top">
 
-- [homemade-risc-v-64-vector-linux-emulator](https://github.com/billzi2016/homemade-risc-v-64-vector-linux-emulator)
+- [homemade-risc-v-64-vector-linux-emulator](https://github.com/billzi2016/homemade-risc-v-64-vector-linux-emulator) · [文档](https://billzi2016.github.io/homemade-risc-v-64-vector-linux-emulator/)
 - [homemade-cpu-raytracer](https://github.com/billzi2016/homemade-cpu-raytracer)
 - [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler) · [文档](https://billzi2016.github.io/C-Core-Compiler/)
 - [python-git-reproduction](https://github.com/billzi2016/python-git-reproduction) · [文档](https://billzi2016.github.io/python-git-reproduction/)
 - [Self-Hosting-C-Core-Compiler](https://github.com/billzi2016/Self-Hosting-C-Core-Compiler)
 - [Homemade-CPython](https://github.com/billzi2016/Homemade-CPython)
-- [Visual-Basic-Core-Compiler](https://github.com/billzi2016/Visual-Basic-Core-Compiler)
 
 </td>
 <td valign="top">
@@ -105,6 +104,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Autograd-Compiler-Engine](https://github.com/billzi2016/Autograd-Compiler-Engine)
 - [Automatic-Differentiation-From-Scratch](https://github.com/billzi2016/Automatic-Differentiation-From-Scratch)
 - [bignum-from-scratch](https://github.com/billzi2016/bignum-from-scratch)
+- [Visual-Basic-Core-Compiler](https://github.com/billzi2016/Visual-Basic-Core-Compiler)
 
 </td>
 <td valign="top">
@@ -177,7 +177,6 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Facial-Recognition](https://github.com/billzi2016/Facial-Recognition) · [文档](https://billzi2016.github.io/Facial-Recognition/)
 - [Recommender-Systems](https://github.com/billzi2016/Recommender-Systems)
 - [SFCN-age-gender-balanced](https://github.com/billzi2016/SFCN-age-gender-balanced)
-- [SFCN-4-Quadrant-Assessment](https://github.com/billzi2016/SFCN-4-Quadrant-Assessment)
 
 </td>
 <td valign="top">
@@ -187,6 +186,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [ViT-H](https://github.com/billzi2016/ViT-H)
 - [RomeInADay](https://github.com/billzi2016/RomeInADay)
 - [homemade-datarobot](https://github.com/billzi2016/homemade-datarobot)
+- [SFCN-4-Quadrant-Assessment](https://github.com/billzi2016/SFCN-4-Quadrant-Assessment)
 
 </td>
 </tr>
@@ -262,7 +262,6 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Othello-AI](https://github.com/billzi2016/Othello-AI) · [演示](https://billzi2016.github.io/Othello-AI/) · [文档](https://billzi2016.github.io/Othello-AI/docs/)
 - [RL-MCTS-gomoku-zero-11x11](https://github.com/billzi2016/RL-MCTS-gomoku-zero-11x11)
 - [gomoku-minimax-engine](https://github.com/billzi2016/gomoku-minimax-engine)
-- [Alphago-Naive](https://github.com/billzi2016/Alphago-Naive)
 
 </td>
 <td valign="top">
@@ -272,6 +271,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [4096-expectimax-bitboard](https://github.com/billzi2016/4096-expectimax-bitboard)
 - [tennis-for-two](https://github.com/billzi2016/tennis-for-two) · [演示](https://billzi2016.github.io/tennis-for-two/)
 - [maze-algorithms](https://github.com/billzi2016/maze-algorithms)
+- [Alphago-Naive](https://github.com/billzi2016/Alphago-Naive)
 
 </td>
 <td valign="top">
