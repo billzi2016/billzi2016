@@ -1,7 +1,7 @@
 # Bill Zi
 
 计算机科学博士，Purdue University / Indiana University  
-LLMs/MLLMs | NLP 与 CV | GenAI | 工业与医疗 AI | XAI 与鲁棒性 | 毫米波与嵌入式
+LLMs/MLLMs | AI Agentic Systems | Agent Orchestration & Harnesses | RAG | NLP 与 CV | GenAI | 工业与医疗 AI | XAI 与鲁棒性 | 毫米波与嵌入式
 
 主要做编译器、LLM 系统、分布式实验平台、嵌入式原型，以及各种从零实现的工程项目。
 
@@ -42,6 +42,9 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
   C、C++、Java、Python、Python3、C#、JavaScript  
   TypeScript、PHP、Swift、Kotlin、Dart、Go、Ruby  
   Scala、Rust、Racket、Erlang、Elixir。
+
+- [homemade-risc-v-64-vector-linux-emulator](https://github.com/billzi2016/homemade-risc-v-64-vector-linux-emulator)  
+  从零实现的教学型 64 位 RISC-V 模拟器，支持向量扩展与 Linux 启动。
 
 </td>
 <td valign="top">
@@ -86,6 +89,8 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 <tr>
 <td valign="top">
 
+- [homemade-risc-v-64-vector-linux-emulator](https://github.com/billzi2016/homemade-risc-v-64-vector-linux-emulator)
+- [homemade-cpu-raytracer](https://github.com/billzi2016/homemade-cpu-raytracer)
 - [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler) · [文档](https://billzi2016.github.io/C-Core-Compiler/)
 - [python-git-reproduction](https://github.com/billzi2016/python-git-reproduction) · [文档](https://billzi2016.github.io/python-git-reproduction/)
 - [Self-Hosting-C-Core-Compiler](https://github.com/billzi2016/Self-Hosting-C-Core-Compiler)
@@ -172,6 +177,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Facial-Recognition](https://github.com/billzi2016/Facial-Recognition) · [文档](https://billzi2016.github.io/Facial-Recognition/)
 - [Recommender-Systems](https://github.com/billzi2016/Recommender-Systems)
 - [SFCN-age-gender-balanced](https://github.com/billzi2016/SFCN-age-gender-balanced)
+- [SFCN-4-Quadrant-Assessment](https://github.com/billzi2016/SFCN-4-Quadrant-Assessment)
 
 </td>
 <td valign="top">
@@ -250,6 +256,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 <tr>
 <td valign="top">
 
+- [mcts-cpu-validate](https://github.com/billzi2016/mcts-cpu-validate) · [文档](https://billzi2016.github.io/mcts-cpu-validate/)
 - [gomoku-terminator](https://github.com/billzi2016/gomoku-terminator)
 - [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [演示](https://billzi2016.github.io/Gomoku-AI/) · [文档](https://billzi2016.github.io/Gomoku-AI/docs/)
 - [Othello-AI](https://github.com/billzi2016/Othello-AI) · [演示](https://billzi2016.github.io/Othello-AI/) · [文档](https://billzi2016.github.io/Othello-AI/docs/)
@@ -344,20 +351,11 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 ## 最近的 GitHub Pages 维护
 
-最近我一直在重构和打磨自己的 GitHub Pages，并在 Human-in-the-Loop 的工作流中重度使用 Codex / Claude Code，把不少老仓库逐步整理成更正规、更完整、更易读、也更容易导航的项目站点。下面这些截图记录了过去一个月的使用情况和维护状态。
+这一轮维护工作的重点，是把实验型、研究型和长期积累的仓库整理成结构更清楚、对外呈现更完整的公开项目。具体工作包括重新梳理仓库结构、重写并统一 README、建立一致的项目入口，以及补充安装、运行、架构、数据集、实验流程和预期输出等实用说明；对于适合双语呈现的项目，也同步维护英文和中文文档。
 
-这项工作并不是为了盲目生成页面，而是按照 Spec-First、Review-Driven 的方式推进，并持续引入测试驱动开发（Test-Driven Development, TDD）、规格驱动开发（Spec-Driven Development, SDD）和持续集成 / 持续交付（Continuous Integration / Continuous Delivery, CI/CD）等工程实践，去提升这些历史项目的可读性、多平台支持能力、可维护性、后续维护效率、安全性和稳定性。AI 辅助极大提升了整体整理和重构速度，而在面对数量众多、相互关联的文档时，AI 也天然更擅长做结构梳理、术语统一和跨文档联动修订，从而减少“这一处改了、另一处没跟上”的问题。与此同时，项目取舍、内容验收、结构收敛以及最终编辑控制始终保持 Human-in-the-Loop，以对 AI 幻觉形成严格抑制，避免未经验证的信息进入最终内容。
+各个仓库的文档层也得到了系统加强，包括更清晰的导航、跨页面链接、移动端布局、稳定的静态资源路径和 GitHub Pages 部署。根据项目本身的特点，目前面向外部的文档主要收敛为三种形态：基于 MkDocs 的文档站、基于 Sphinx 的文档站，以及使用 HTML、CSS、JavaScript 构建的原生静态站。
 
-这里汇总的截图记录了过去一个月的使用情况，也集中展示了面向外部的文档站、仓库呈现方式和项目入口，让读者即使不在本地运行项目，也能先理解项目的结构、状态和预期用途。当前这一轮整理，主要在往三种文档形态收敛：基于 MkDocs 的文档站、基于 Sphinx 的文档站，以及直接使用 HTML、CSS、JavaScript 构建的原生静态站。
-
-跨模型 token 消耗
-![Codex 使用面板：跨模型累计消耗 18,935,155,313 个 token](images/Snipaste_2026-07-02_18-00-23.png)
-
-按模型统计的对话轮次
-![Codex 使用面板：按模型统计累计 61,090 轮对话](images/Snipaste_2026-07-02_18-01-39.png)
-
-累计生成代码行数
-![Codex 使用面板：累计生成 3,429,823 行代码的时间分布](images/Snipaste_2026-07-02_18-02-39.png)
+这批持续维护的项目覆盖编译器与运行时系统、LLM 与 Agent 工程、计算机视觉与医学影像、雷达仿真与毫米波感知、可复现研究工作流，以及五子棋、黑白棋等浏览器博弈 AI。整理目标是让每个仓库都更容易查看、理解、复现和长期维护，即使访问者尚未在本地运行项目，也能先掌握其结构、状态和预期用途。下面列出的案例展示了这一轮整理中采用的几种代表性文档和项目呈现方式。
 
 MkDocs 文档站与仓库 README / 文档系统示例：python-git-reproduction
 
@@ -386,3 +384,18 @@ Sphinx 文档站：DeepChrInteract-v2
 - 仓库链接：[https://github.com/billzi2016/awesome-flow-matching](https://github.com/billzi2016/awesome-flow-matching)
 
 ![整理型项目 README 示例：Awesome Flow Matching](images/awesome.png)
+
+## AI 辅助维护活动
+
+最近我一直在重构和打磨自己的 GitHub Pages，并在 Human-in-the-Loop 的工作流中重度使用 Codex / Claude Code，把不少老仓库逐步整理成更正规、更完整、更易读、也更容易导航的项目站点。下面这些截图记录了过去一个月的使用情况和维护状态。
+
+这项工作并不是为了盲目生成页面，而是按照 Spec-First、Review-Driven 的方式推进，并持续引入测试驱动开发（Test-Driven Development, TDD）、规格驱动开发（Spec-Driven Development, SDD）和持续集成 / 持续交付（Continuous Integration / Continuous Delivery, CI/CD）等工程实践，去提升这些历史项目的可读性、多平台支持能力、可维护性、后续维护效率、安全性和稳定性。AI 辅助极大提升了整体整理和重构速度，而在面对数量众多、相互关联的文档时，AI 也天然更擅长做结构梳理、术语统一和跨文档联动修订，从而减少“这一处改了、另一处没跟上”的问题。与此同时，项目取舍、内容验收、结构收敛以及最终编辑控制始终保持 Human-in-the-Loop，以对 AI 幻觉形成严格抑制，避免未经验证的信息进入最终内容。
+
+跨模型 token 消耗
+![Codex 使用面板：跨模型累计消耗 18,935,155,313 个 token](images/Snipaste_2026-07-02_18-00-23.png)
+
+按模型统计的对话轮次
+![Codex 使用面板：按模型统计累计 61,090 轮对话](images/Snipaste_2026-07-02_18-01-39.png)
+
+累计生成代码行数
+![Codex 使用面板：累计生成 3,429,823 行代码的时间分布](images/Snipaste_2026-07-02_18-02-39.png)

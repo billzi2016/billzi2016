@@ -1,7 +1,7 @@
 # Bill Zi
 
 CS Ph.D., Purdue University, Indiana University  
-LLMs/MLLMs | NLP & CV | GenAI | Industrial & MedAI | XAI & Robustness | mmWave & Embedded
+LLMs/MLLMs | AI Agentic Systems | Agent Orchestration & Harnesses | RAG | NLP & CV | GenAI | Industrial & MedAI | XAI & Robustness | mmWave & Embedded
 
 Builder of compilers, LLM systems, distributed labs, embedded prototypes, and from-scratch engineering projects.
 
@@ -42,6 +42,9 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
   C, C++, Java, Python, Python3, C#, JavaScript  
   TypeScript, PHP, Swift, Kotlin, Dart, Go, Ruby  
   Scala, Rust, Racket, Erlang, Elixir.
+
+- [homemade-risc-v-64-vector-linux-emulator](https://github.com/billzi2016/homemade-risc-v-64-vector-linux-emulator)  
+  From-scratch educational 64-bit RISC-V emulator with Vector extensions and Linux boot support.
 
 </td>
 <td valign="top">
@@ -86,6 +89,8 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 <tr>
 <td valign="top">
 
+- [homemade-risc-v-64-vector-linux-emulator](https://github.com/billzi2016/homemade-risc-v-64-vector-linux-emulator)
+- [homemade-cpu-raytracer](https://github.com/billzi2016/homemade-cpu-raytracer)
 - [C-Core-Compiler](https://github.com/billzi2016/C-Core-Compiler) · [Docs](https://billzi2016.github.io/C-Core-Compiler/)
 - [python-git-reproduction](https://github.com/billzi2016/python-git-reproduction) · [Docs](https://billzi2016.github.io/python-git-reproduction/)
 - [Self-Hosting-C-Core-Compiler](https://github.com/billzi2016/Self-Hosting-C-Core-Compiler)
@@ -172,6 +177,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [Facial-Recognition](https://github.com/billzi2016/Facial-Recognition) · [Docs](https://billzi2016.github.io/Facial-Recognition/)
 - [Recommender-Systems](https://github.com/billzi2016/Recommender-Systems)
 - [SFCN-age-gender-balanced](https://github.com/billzi2016/SFCN-age-gender-balanced)
+- [SFCN-4-Quadrant-Assessment](https://github.com/billzi2016/SFCN-4-Quadrant-Assessment)
 
 </td>
 <td valign="top">
@@ -250,6 +256,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 <tr>
 <td valign="top">
 
+- [mcts-cpu-validate](https://github.com/billzi2016/mcts-cpu-validate) · [Docs](https://billzi2016.github.io/mcts-cpu-validate/)
 - [gomoku-terminator](https://github.com/billzi2016/gomoku-terminator)
 - [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [Demo](https://billzi2016.github.io/Gomoku-AI/) · [Docs](https://billzi2016.github.io/Gomoku-AI/docs/)
 - [Othello-AI](https://github.com/billzi2016/Othello-AI) · [Demo](https://billzi2016.github.io/Othello-AI/) · [Docs](https://billzi2016.github.io/Othello-AI/docs/)
@@ -344,20 +351,11 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 
 ## Recent GitHub Pages Maintenance
 
-Recently, I have been refactoring and polishing my GitHub Pages presence, using Codex / Claude Code within a Human-in-the-Loop workflow to turn older repositories into more formal, better-documented, and more navigable project sites. The screenshots below summarize the past month's usage and maintenance activity.
+This maintenance work turns experimental, research-oriented, and long-running repositories into clearer public-facing projects. It includes reorganizing repository structures, rewriting and standardizing README files, establishing consistent project entry points, and adding practical explanations for installation, execution, architecture, datasets, experiments, and expected outputs. English and Chinese documentation are kept aligned where bilingual presentation is useful.
 
-The work is not about blindly generating pages. It follows a Spec-First and Review-Driven process, with Test-Driven Development (TDD), Spec-Driven Development (SDD), and Continuous Integration / Continuous Delivery (CI/CD) practices used to improve readability, cross-platform support, maintainability, long-term maintenance efficiency, security, and stability across legacy repositories. AI assistance greatly accelerates the overall pace of restructuring and cleanup, and when dealing with large, interdependent documentation sets, it has a natural advantage in structural organization, terminology alignment, and cross-document revision, which helps reduce the risk of updating one section while leaving related documentation behind. At the same time, project decisions, acceptance, consolidation, and final editorial control remain Human-in-the-Loop.
+The documentation layer has also been strengthened across repositories through clearer navigation, cross-page links, mobile-friendly layouts, stable asset paths, and GitHub Pages deployment. Depending on the needs of each project, the public-facing documentation now converges around three delivery styles: MkDocs documentation sites, Sphinx documentation sites, and fully custom static sites built with HTML, CSS, and JavaScript.
 
-The screenshots collected here capture the past month's usage and showcase the public-facing documentation sites, repository presentation, and project entry points, so that readers can understand a project's structure, status, and intended usage before running anything locally. The current cleanup direction is gradually converging into three documentation styles: MkDocs-based documentation sites, Sphinx-based documentation sites, and fully custom static sites built directly with HTML, CSS, and JavaScript.
-
-Cross-model token consumption
-![Codex usage dashboard showing 18,935,155,313 tokens consumed across models](images/Snipaste_2026-07-02_18-00-23.png)
-
-Conversation turns by model
-![Codex usage dashboard showing 61,090 conversation turns by model](images/Snipaste_2026-07-02_18-01-39.png)
-
-Lines of code generated
-![Codex usage dashboard showing 3,429,823 lines of code generated over time](images/Snipaste_2026-07-02_18-02-39.png)
+The maintained portfolio spans compilers and runtime systems, LLM and agent engineering, computer vision and medical imaging, radar simulation and mmWave sensing, reproducible research workflows, and browser-based game AI such as Gomoku and Othello. The goal is to make each repository easier to inspect, understand, reproduce, and maintain over time, even for visitors who have not yet run the project locally. The examples below show several representative documentation and presentation patterns used in this ongoing cleanup.
 
 MkDocs documentation site and repository README / documentation system: python-git-reproduction
 
@@ -386,3 +384,18 @@ Curated project README example: Awesome Flow Matching
 - Repository: [https://github.com/billzi2016/awesome-flow-matching](https://github.com/billzi2016/awesome-flow-matching)
 
 ![Curated project README example from Awesome Flow Matching](images/awesome.png)
+
+## AI-Assisted Maintenance Activity
+
+Recently, I have been refactoring and polishing my GitHub Pages presence, using Codex / Claude Code within a Human-in-the-Loop workflow to turn older repositories into more formal, better-documented, and more navigable project sites. The screenshots below summarize the past month's usage and maintenance activity.
+
+The work is not about blindly generating pages. It follows a Spec-First and Review-Driven process, with Test-Driven Development (TDD), Spec-Driven Development (SDD), and Continuous Integration / Continuous Delivery (CI/CD) practices used to improve readability, cross-platform support, maintainability, long-term maintenance efficiency, security, and stability across legacy repositories. AI assistance greatly accelerates the overall pace of restructuring and cleanup, and when dealing with large, interdependent documentation sets, it has a natural advantage in structural organization, terminology alignment, and cross-document revision, which helps reduce the risk of updating one section while leaving related documentation behind. At the same time, project decisions, acceptance, consolidation, and final editorial control remain Human-in-the-Loop.
+
+Cross-model token consumption
+![Codex usage dashboard showing 18,935,155,313 tokens consumed across models](images/Snipaste_2026-07-02_18-00-23.png)
+
+Conversation turns by model
+![Codex usage dashboard showing 61,090 conversation turns by model](images/Snipaste_2026-07-02_18-01-39.png)
+
+Lines of code generated
+![Codex usage dashboard showing 3,429,823 lines of code generated over time](images/Snipaste_2026-07-02_18-02-39.png)
