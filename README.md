@@ -89,6 +89,9 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary)  
   Offline subtitle generation and bilingual translation tool for local audio and video files, accelerated with MLX on Apple Silicon and powered by local LLM workflows.
 
+- [MPSBoost](https://github.com/billzi2016/MPSBoost) · [PyPI](https://pypi.org/project/mpsboost/)
+  Fast gradient-boosted decision trees for Apple Silicon, with a lightweight sklearn-style Python API powered by MPS and Metal.
+
 </td>
 </tr>
 </table>

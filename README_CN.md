@@ -89,6 +89,9 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [whisper-meeting-transcription-translation-and-summary](https://github.com/billzi2016/whisper-meeting-transcription-translation-and-summary)  
   面向本地音视频文件的离线字幕生成和双语翻译工具，支持 Apple Silicon 上的 MLX 加速和本地 LLM 工作流。
 
+- [MPSBoost](https://github.com/billzi2016/MPSBoost) · [PyPI](https://pypi.org/project/mpsboost/)
+  面向 Apple Silicon 的快速梯度提升决策树库，提供由 MPS 和 Metal 驱动的轻量级 sklearn 风格 Python API。
+
 </td>
 </tr>
 </table>
