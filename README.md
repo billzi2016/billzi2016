@@ -24,9 +24,6 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [Chinese-Chess-AI](https://github.com/billzi2016/Chinese-Chess-AI) · [Demo](https://billzi2016.github.io/Chinese-Chess-AI/)
   Browser-based Xiangqi AI powered by the ElephantEye C++ engine compiled to WebAssembly, with local UCCI search analysis and no backend dependency.
 
-- [Chinese-Chess-AI-Pro](https://github.com/billzi2016/Chinese-Chess-AI-Pro) · [Demo](https://billzi2016.github.io/Chinese-Chess-AI-Pro/)
-  Advanced browser-based Xiangqi AI with C++ WebAssembly, NNUE evaluation, and multi-threaded Web Workers via SharedArrayBuffer.
-
 - [LLM-Benchmark-Studio](https://github.com/billzi2016/LLM-Benchmark-Studio)  
   Local-first LLM evaluation platform with Django, Vue, PostgreSQL, RabbitMQ, Celery, SSE, and multi-provider model execution.
 
@@ -61,6 +58,9 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 
 - [Industrial-Query-Agent](https://github.com/billzi2016/Industrial-Query-Agent)  
   Industrial query agent project for structured domain question answering, retrieval-oriented workflows, and practical agentic system design.
+
+- [Chinese-Chess-AI-Pro](https://github.com/billzi2016/Chinese-Chess-AI-Pro) · [Demo](https://billzi2016.github.io/Chinese-Chess-AI-Pro/)
+  Advanced browser-based Xiangqi AI with C++ WebAssembly, NNUE evaluation, and multi-threaded Web Workers via SharedArrayBuffer.
 
 - [Othello-AI](https://github.com/billzi2016/Othello-AI) · [Demo](https://billzi2016.github.io/Othello-AI/) · [Docs](https://billzi2016.github.io/Othello-AI/docs/)  
   Browser-based Rust/Wasm Othello AI with bitboards, alpha-beta search, exact endgame search, stability-aware evaluation, and Web Worker parallelism.
@@ -274,7 +274,6 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [Chinese-Chess-AI](https://github.com/billzi2016/Chinese-Chess-AI) · [Demo](https://billzi2016.github.io/Chinese-Chess-AI/)
 - [Chinese-Chess-AI-Pro](https://github.com/billzi2016/Chinese-Chess-AI-Pro) · [Demo](https://billzi2016.github.io/Chinese-Chess-AI-Pro/)
 - [RL-MCTS-gomoku-zero-11x11](https://github.com/billzi2016/RL-MCTS-gomoku-zero-11x11)
-- [gomoku-minimax-engine](https://github.com/billzi2016/gomoku-minimax-engine)
 
 </td>
 <td valign="top">
@@ -294,6 +293,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [openai-gym-reinforcement-learning-lab](https://github.com/billzi2016/openai-gym-reinforcement-learning-lab)
 - [inverted-pendulum-rl-lab](https://github.com/billzi2016/inverted-pendulum-rl-lab)
 - [Metropolitan-Routing-Algorithm](https://github.com/billzi2016/Metropolitan-Routing-Algorithm)
+- [gomoku-minimax-engine](https://github.com/billzi2016/gomoku-minimax-engine)
 
 </td>
 </tr>

@@ -24,9 +24,6 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Chinese-Chess-AI](https://github.com/billzi2016/Chinese-Chess-AI) · [演示](https://billzi2016.github.io/Chinese-Chess-AI/)
   基于 ElephantEye C++ 引擎与 WebAssembly 的浏览器中国象棋 AI，支持本地 UCCI 搜索分析，无需后端服务。
 
-- [Chinese-Chess-AI-Pro](https://github.com/billzi2016/Chinese-Chess-AI-Pro) · [演示](https://billzi2016.github.io/Chinese-Chess-AI-Pro/)
-  进阶浏览器中国象棋 AI，采用 C++ WebAssembly、NNUE 评估与基于 SharedArrayBuffer 的多线程 Web Worker。
-
 - [LLM-Benchmark-Studio](https://github.com/billzi2016/LLM-Benchmark-Studio)  
   本地优先的 LLM 评测平台，使用 Django、Vue、PostgreSQL、RabbitMQ、Celery 和 SSE 组织完整评测流程。
 
@@ -61,6 +58,9 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 
 - [Industrial-Query-Agent](https://github.com/billzi2016/Industrial-Query-Agent)  
   面向工业领域问答、检索式工作流和实用 Agent 系统设计的查询助手项目。
+
+- [Chinese-Chess-AI-Pro](https://github.com/billzi2016/Chinese-Chess-AI-Pro) · [演示](https://billzi2016.github.io/Chinese-Chess-AI-Pro/)
+  进阶浏览器中国象棋 AI，采用 C++ WebAssembly、NNUE 评估与基于 SharedArrayBuffer 的多线程 Web Worker。
 
 - [Othello-AI](https://github.com/billzi2016/Othello-AI) · [演示](https://billzi2016.github.io/Othello-AI/) · [文档](https://billzi2016.github.io/Othello-AI/docs/)  
   基于 Rust/Wasm 的浏览器黑白棋 AI，包含 bitboard、Alpha-Beta 搜索、精确残局搜索、稳定子评估和 Web Worker 并行。
@@ -274,7 +274,6 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Chinese-Chess-AI](https://github.com/billzi2016/Chinese-Chess-AI) · [演示](https://billzi2016.github.io/Chinese-Chess-AI/)
 - [Chinese-Chess-AI-Pro](https://github.com/billzi2016/Chinese-Chess-AI-Pro) · [演示](https://billzi2016.github.io/Chinese-Chess-AI-Pro/)
 - [RL-MCTS-gomoku-zero-11x11](https://github.com/billzi2016/RL-MCTS-gomoku-zero-11x11)
-- [gomoku-minimax-engine](https://github.com/billzi2016/gomoku-minimax-engine)
 
 </td>
 <td valign="top">
@@ -294,6 +293,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [openai-gym-reinforcement-learning-lab](https://github.com/billzi2016/openai-gym-reinforcement-learning-lab)
 - [inverted-pendulum-rl-lab](https://github.com/billzi2016/inverted-pendulum-rl-lab)
 - [Metropolitan-Routing-Algorithm](https://github.com/billzi2016/Metropolitan-Routing-Algorithm)
+- [gomoku-minimax-engine](https://github.com/billzi2016/gomoku-minimax-engine)
 
 </td>
 </tr>
