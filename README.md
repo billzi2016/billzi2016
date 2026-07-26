@@ -21,11 +21,20 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [Demo](https://billzi2016.github.io/Gomoku-AI/) · [Docs](https://billzi2016.github.io/Gomoku-AI/docs/)  
   Browser-based Rust/Wasm Gomoku AI with bitboards, VCF search, alpha-beta pruning, iterative deepening, Web Worker parallelism, and local CPU execution.
 
+- [Chinese-Chess-AI](https://github.com/billzi2016/Chinese-Chess-AI) · [Demo](https://billzi2016.github.io/Chinese-Chess-AI/)
+  Browser-based Xiangqi AI powered by the ElephantEye C++ engine compiled to WebAssembly, with local UCCI search analysis and no backend dependency.
+
+- [Chinese-Chess-AI-Pro](https://github.com/billzi2016/Chinese-Chess-AI-Pro) · [Demo](https://billzi2016.github.io/Chinese-Chess-AI-Pro/)
+  Advanced browser-based Xiangqi AI with C++ WebAssembly, NNUE evaluation, and multi-threaded Web Workers via SharedArrayBuffer.
+
 - [LLM-Benchmark-Studio](https://github.com/billzi2016/LLM-Benchmark-Studio)  
   Local-first LLM evaluation platform with Django, Vue, PostgreSQL, RabbitMQ, Celery, SSE, and multi-provider model execution.
 
 - [Build-DeepSeek-Step-by-Step](https://github.com/billzi2016/Build-DeepSeek-Step-by-Step)  
   Notebook-first deep dive into modern LLM architecture, covering tokenization, attention, GQA, MLA, MoE, training, and alignment.
+
+- [blockchain-theory](https://github.com/billzi2016/blockchain-theory)
+  From-scratch implementations of blockchain primitives and consensus mechanisms, including PoW, PoS with slashing, Merkle trees, ECDSA signatures, and the UTXO model.
 
 - [Apple-Silicon-LLM-Engine-from-Scratch](https://github.com/billzi2016/Apple-Silicon-LLM-Engine-from-Scratch)  
   GPT-2 inference engine rebuilt across NumPy, PyTorch MPS, and C++/Metal stages for Apple Silicon.
@@ -163,6 +172,7 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 <td valign="top">
 
 - [DeepChrInteract-v2](https://github.com/billzi2016/DeepChrInteract-v2) · [Docs](https://billzi2016.github.io/DeepChrInteract-v2/)
+- [blockchain-theory](https://github.com/billzi2016/blockchain-theory)
 - [ai-agentic-arxiv-observer](https://github.com/billzi2016/ai-agentic-arxiv-observer)
 - [Daily-Paper-Reading](https://github.com/billzi2016/Daily-Paper-Reading)
 - [LLM-AI-Papers](https://github.com/billzi2016/LLM-AI-Papers)
@@ -261,6 +271,8 @@ Google Scholar: [Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AAA
 - [gomoku-terminator](https://github.com/billzi2016/gomoku-terminator)
 - [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [Demo](https://billzi2016.github.io/Gomoku-AI/) · [Docs](https://billzi2016.github.io/Gomoku-AI/docs/)
 - [Othello-AI](https://github.com/billzi2016/Othello-AI) · [Demo](https://billzi2016.github.io/Othello-AI/) · [Docs](https://billzi2016.github.io/Othello-AI/docs/)
+- [Chinese-Chess-AI](https://github.com/billzi2016/Chinese-Chess-AI) · [Demo](https://billzi2016.github.io/Chinese-Chess-AI/)
+- [Chinese-Chess-AI-Pro](https://github.com/billzi2016/Chinese-Chess-AI-Pro) · [Demo](https://billzi2016.github.io/Chinese-Chess-AI-Pro/)
 - [RL-MCTS-gomoku-zero-11x11](https://github.com/billzi2016/RL-MCTS-gomoku-zero-11x11)
 - [gomoku-minimax-engine](https://github.com/billzi2016/gomoku-minimax-engine)
 
