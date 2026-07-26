@@ -21,11 +21,20 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [演示](https://billzi2016.github.io/Gomoku-AI/) · [文档](https://billzi2016.github.io/Gomoku-AI/docs/)  
   基于 Rust/Wasm 的浏览器五子棋 AI，包含 bitboard、VCF 搜索、Alpha-Beta 剪枝、迭代加深、Web Worker 并行和本地 CPU 推理。
 
+- [Chinese-Chess-AI](https://github.com/billzi2016/Chinese-Chess-AI) · [演示](https://billzi2016.github.io/Chinese-Chess-AI/)
+  基于 ElephantEye C++ 引擎与 WebAssembly 的浏览器中国象棋 AI，支持本地 UCCI 搜索分析，无需后端服务。
+
+- [Chinese-Chess-AI-Pro](https://github.com/billzi2016/Chinese-Chess-AI-Pro) · [演示](https://billzi2016.github.io/Chinese-Chess-AI-Pro/)
+  进阶浏览器中国象棋 AI，采用 C++ WebAssembly、NNUE 评估与基于 SharedArrayBuffer 的多线程 Web Worker。
+
 - [LLM-Benchmark-Studio](https://github.com/billzi2016/LLM-Benchmark-Studio)  
   本地优先的 LLM 评测平台，使用 Django、Vue、PostgreSQL、RabbitMQ、Celery 和 SSE 组织完整评测流程。
 
 - [Build-DeepSeek-Step-by-Step](https://github.com/billzi2016/Build-DeepSeek-Step-by-Step)  
   从 tokenizer、attention、GQA、MLA、MoE 一路讲到训练与对齐的现代 LLM 拆解项目。
+
+- [blockchain-theory](https://github.com/billzi2016/blockchain-theory)
+  从零实现区块链基础组件与共识机制，覆盖 PoW、带惩罚机制的 PoS、Merkle Tree、ECDSA 签名与 UTXO 模型。
 
 - [Apple-Silicon-LLM-Engine-from-Scratch](https://github.com/billzi2016/Apple-Silicon-LLM-Engine-from-Scratch)  
   面向 Apple Silicon 的 GPT-2 推理引擎，从 NumPy 版一路做到 PyTorch MPS 和 C++/Metal。
@@ -163,6 +172,7 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 <td valign="top">
 
 - [DeepChrInteract-v2](https://github.com/billzi2016/DeepChrInteract-v2) · [文档](https://billzi2016.github.io/DeepChrInteract-v2/)
+- [blockchain-theory](https://github.com/billzi2016/blockchain-theory)
 - [ai-agentic-arxiv-observer](https://github.com/billzi2016/ai-agentic-arxiv-observer)
 - [Daily-Paper-Reading](https://github.com/billzi2016/Daily-Paper-Reading)
 - [LLM-AI-Papers](https://github.com/billzi2016/LLM-AI-Papers)
@@ -261,6 +271,8 @@ Google Scholar：[Ziqian Bi](https://scholar.google.com/citations?user=4z9m238AA
 - [gomoku-terminator](https://github.com/billzi2016/gomoku-terminator)
 - [Gomoku-AI](https://github.com/billzi2016/Gomoku-AI) · [演示](https://billzi2016.github.io/Gomoku-AI/) · [文档](https://billzi2016.github.io/Gomoku-AI/docs/)
 - [Othello-AI](https://github.com/billzi2016/Othello-AI) · [演示](https://billzi2016.github.io/Othello-AI/) · [文档](https://billzi2016.github.io/Othello-AI/docs/)
+- [Chinese-Chess-AI](https://github.com/billzi2016/Chinese-Chess-AI) · [演示](https://billzi2016.github.io/Chinese-Chess-AI/)
+- [Chinese-Chess-AI-Pro](https://github.com/billzi2016/Chinese-Chess-AI-Pro) · [演示](https://billzi2016.github.io/Chinese-Chess-AI-Pro/)
 - [RL-MCTS-gomoku-zero-11x11](https://github.com/billzi2016/RL-MCTS-gomoku-zero-11x11)
 - [gomoku-minimax-engine](https://github.com/billzi2016/gomoku-minimax-engine)
 
